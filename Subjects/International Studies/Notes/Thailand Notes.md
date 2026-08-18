@@ -70,10 +70,16 @@ During the mid-20th century, as Thailand underwent significant political changes
 
 -          Similarly, in the **village of Bang Kloi**, the court also barred the community from returning to the land, which the Karens claim belonged to their ancestors. (eg 2)
 
-(EXP)  
+(EXP)  There is a clear difference in perception of the ownership of land which has led to conflict. The Karens believe that the forest belongs to them by default as they have lived there for centuries. However, modern international law recognises this land as belonging to the Thai government as they are within Thai borders. Because the Karens are largely illiterate, they are unable to understand this concept. This leads to frequent clashes between the Karen tribal communities and the Thai enforcement agencies.
 
-(L) Hence,
+(L) Hence, the difference in understanding about who owns the land and the refusal to compromise between the Karens and the Thais have led to a failure in integration.
 
 In conclusion, this essay still believes that the Thai government has come up with significant policies that have led to the **success of integration** **(THESIS)**. This is because Thai government policies have **(criteria)**. The policies clearly **(explanation and elaboration of criteria)**. The implications of these policies, as such, **(explanation and elaboration of implications).**
 
+
+# conclusion
+
+In conclusion, this essay still believes that the Thai government has come up with significant policies that have led to the success of integration (THESIS). This is because Thai government policies are massive in scale and include large segments of Karen communities for integration (criteria). The policies clearly target schoolchildren, villagers, university students and workers which represent a large portion of the Karen community. Targeting these segments of Karen society is vital for integration to take place because these groups are foundational for the integration process to be successful. (explanation and elaboration of criteria). The implications of these policies, as such, have been successful and are effective in breaking communication barriers and integrating Karen culture as part of Thai multicultural society, and therefore the government should keep continuing with these policies. (explanation and elaboration of implications).  
+
+In conclusion, this essay still believes that the Thai government has come up with problematic policies that have led to the failure of integration. This is because Thai government policies do not have sufficient depth. Thai government policies are superficial because they only address education and tourism. Thai government's refusal to give political power to the Karen community shows that they lack a fundamental trust towards the Karens. The Karens are employable but lack any significant power in Thai society. The implications of these policies as such, show that the Thai government does not have faith in the Karen community. Therefore, key structural transformation cannot take place because they are not recognised as true citizens of Thailand, so integration will always fail.
 
