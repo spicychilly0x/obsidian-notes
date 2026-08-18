@@ -1,48 +1,39 @@
 
-**1. MASS**
+**1. Fundamental Definitions**
 
-- **Definition:** A measure of the amount of **matter** (or substance) in a body.
-- **Key Properties:**
-    - **Constant:** Does not vary regardless of the object's location.
-    - **Scalar Quantity:** Has magnitude but no direction.
-    - **SI Unit:** Kilogram (**kg**).
-- **Measurement:** Measured using a **beam balance** or a calibrated electronic balance.
-
-**2. WEIGHT**
-
-- **Definition:** The **gravitational force** acting on a body.
-- **Key Properties:**
-    - **Variable:** Varies based on the local **gravitational field strength**.
-    - **Vector Quantity:** Always acts towards the center of the mass causing the field (e.g., towards the center of the Earth).
-    - **SI Unit:** Newton (**N**).
-- **Measurement:** Measured using a **spring balance**.
-
-**3. GRAVITATIONAL FIELDS & STRENGTH**
-
+- **Mass:** A measure of the amount of substance or matter in a body.
 - **Gravitational Field:** A region in which a mass experiences a force due to gravitational attraction.
-- **Gravitational Field Strength (**g**):** The gravitational **force per unit mass** placed at a point.
-    - **Earth** g**:** ≈10 N/kg (means 1.0 kg experiences 10 N of force).
-    - **Moon** g**:** ≈1.6 N/kg to 1.67 N/kg.
-- **Key Fact:** g is mathematically equivalent to **acceleration due to gravity** (unit: m s−2).
-- **Universal Principle:** Anything that has mass has a gravitational field that attracts other masses.
+    - **Key Fact:** Anything with mass has a gravitational field to attract other masses; it is not limited to planets and stars.
+- **Gravitational Field Strength (**g**):** The gravitational force per unit mass placed at a specific point.
+    - **Units:** Expressed in Newtons per kilogram (N/kg).
+    - **Relationship:** Mathematically equivalent to the acceleration of free fall (acceleration due to gravity) with units of m/s2.
 
-**4. FORMULA & RELATIONSHIPS**
+**2. Key Formula and Values**
 
-- **Core Formula:** W=mg
-    - W**:** Weight in Newtons (**N**)
-    - m**:** Mass in kilograms (**kg**)
-    - g**:** Gravitational field strength in **N/kg** (or m s−2)
-- **Must Memorize:** When an object moves between locations (e.g., Earth to Moon), its **mass stays the same**, but its **weight changes** proportionally to the change in g.
+- **Weight (**W**):** The gravitational force acting on a body.
+- **Formula:** W=mg.
+    - W = weight in Newtons (N)
+    - m = mass in kilograms (kg)
+    - g = gravitational field strength (N/kg or m/s2)
+- **Must-Memorize Values:**
+    - **Earth:** g≈10N/kg.
+    - **Moon:** g≈1.6 to 1.67N/kg.
 
-**5. EXAM EXAMPLES**
+**3. Comparison: Mass vs. Weight**
 
-- **Calculating** g**:** An astronaut weighs 260 N on Planet Z with a mass of 55 kg. g=mW​=55 kg260 N​=4.7 N/kg.
-- **Transferring Between Planets:** A rock weighs 46 N on Venus (g=8.9 N/kg). Find its weight on Mars (g=3.7 N/kg).
-    1. Find constant mass: m=gVenus​WVenus​​=8.946​ kg.
-    2. Find new weight: WMars​=m×gMars​=(8.946​)×3.7=19 N.
+|Feature|**Mass**|**Weight**|
+|---|---|---|
+|**Definition**|Amount of matter in a body.|Gravitational force acting on a body.|
+|**Quantity Type**|**Scalar** (magnitude only).|**Vector** (has direction).|
+|**Location**|**Constant**; does not change with location.|**Varies**; depends on local g.|
+|**SI Unit**|Kilogram (kg).|Newton (N).|
+|**Measuring Tool**|Beam balance or electronic balance.|Spring balance.|
 
-**6. COMMON EXAM TRAPS**
+**4. Exam Problem-Solving Strategies**
 
-- ⚠️ **Confusing Units:** Always ensure mass is in **kg** before calculating weight.
-- ⚠️ **Field Causes:** Gravitational fields act on objects because they have **mass**, not because they are charged.
-- ⚠️ **Location:** Mass remains constant even if a metal block is heated; only volume, density, and surface area might change
+- **Finding Mass from Weight:** If an object’s weight on Planet A is known, find its mass first (m=W/g) because **mass remains constant** regardless of where the object is moved.
+- **Calculating Weight on a Different Planet:**
+    - Wnew​=(gold​Wold​​)×gnew​.
+    - _Example:_ If a rock weighs 46N on Venus (g=8.9) and you need its weight on Mars (g=3.7): (8.946​)×3.7=19N.
+- **Finding** g **of an Unknown Planet:** g=mW​.
+- **Key Concept:** When an object is heated, its **mass remains constant** even if density or volume changes.
