@@ -1,4 +1,4 @@
-**1. PHYSICAL QUANTITIES & UNITS**
+1. PHYSICAL QUANTITIES & UNITS
 
 - **Definition:** A physical quantity consists of a **numerical magnitude** and a **unit**.
 - **Base Quantities (Must Memorize):** There are seven fundamental quantities: **length** (m), **mass** (kg), **time** (s), **current** (A), **temperature** (K), **amount of substance** (mol), and **luminous intensity** (cd).
