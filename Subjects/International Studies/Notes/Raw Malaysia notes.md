@@ -16,15 +16,15 @@ Malaysia is trying to re-invent itself as the digital hub of SEA to take advanta
 
 **Arg 1**
 
-**(P)** Firstly, Malaysia has come up with plans to become a successful digital hub. Socially, it is educating its workforce to be future ready for the digital transformation.
+**(P)** Firstly, Malaysia has come up with <mark style="background: #FFF3A3A6;">plans</mark> to become a <mark style="background: #FFF3A3A6;">successful digital hub</mark>. Socially, it is <mark style="background: #FFF3A3A6;">educating its workforce</mark> to be future ready for the digital transformation.
 
 **(EV)**
 
--       The eRezeki initiative was launched in 2015 to offer a means for urban B40 and M40 communities, especially gig workers, to supplement their income through digital platforms.
+-       The <mark style="background: #FFF3A3A6;">eRezeki</mark> initiative was launched in 2015 to offer a means for urban B40 and M40 communities, especially gig workers, to supplement their income through digital platforms.
 
 -       Since its inception, eRezeki has effectively trained a total of 312,735 participants to leverage digital platforms for online earnings, collectively generating RM2.51 billion in income as of December 2021
 
--       Operating from October 1 to December 31, 2022, the program aims to enhance the skills of over 8,000 gig workers, with a particular emphasis on engaging B40 and M40 households.
+-       Operating from October 1 to December 31, 2022, the program aims to enhance the skills of over 8,000 <mark style="background: #FFF3A3A6;">gig workers</mark>, with a particular emphasis on engaging <mark style="background: #FFF3A3A6;">B40 and M40</mark> households.
 
 **(Exp)** The eRezeki programme targets low income communities who are not digitally literate. By tapping on this significant community, the government hopes to create a digitally ready work force that is capable of working in IT firms taking part in ecommerce. By making use of this community, Malaysia can raise its digital profile and also supply local and foreign digital firms with a steady supply of labour. Knowing that there is a digital ready workforce will also attract foreign investments into Malaysia’s ecommerce initiative
 
@@ -52,13 +52,13 @@ Malaysia is trying to re-invent itself as the digital hub of SEA to take advanta
 
 **(Ev)**
 
--       Malaysia confronts a formidable obstacle in the form of a shortage of skilled human capital. The gravity of this issue prompted the World Bank to include Malaysia in their Economic Monitor report, examining the issue of brain drain. Given the widespread dispersion of the Malaysian diaspora, tracking their movements proves exceedingly difficult. Therefore, the World Bank relied on past data and recent trends to estimate that between 800,000 and 1.4 million Malaysians currently reside overseas.
+-       Malaysia confronts a formidable obstacle in the form of a shortage of skilled human capital. The gravity of this issue prompted the <mark style="background: #FFF3A3A6;">World Bank</mark> to include Malaysia in their <mark style="background: #FFF3A3A6;">Economic Monitor report</mark>, examining the issue of <mark style="background: #FFF3A3A6;">brain drain</mark>. Given the widespread dispersion of the Malaysian diaspora, tracking their movements proves exceedingly difficult. Therefore, the World Bank relied on past data and recent trends to estimate that between <mark style="background: #FFF3A3A6;">800,000 and 1.4 million Malaysians currently reside overseas.</mark>
 
--       Despite primary and secondary education being free, the quality is subpar, often supplemented by extensive outside tutoring for those who can afford it. Additionally, the close proximity of Singapore and its significantly more developed environment serves as a magnet for the Malaysian diaspora. This proximity facilitates continued connections with family in Malaysia and benefits from an established network of Malaysians already residing in Singapore. Notably, a Stanford University report from 2000 revealed that 46% of the Malaysian diaspora reside in Singapore, comprising 45% of Singapore's resident immigrant population.
+-       Despite primary and secondary education being free, the quality is subpar, often supplemented by extensive outside tutoring for those who can afford it. Additionally, the <mark style="background: #FFF3A3A6;">close proximity</mark> of Singapore and its significantly more developed environment serves as a magnet for the Malaysian diaspora. This proximity facilitates continued connections with family in Malaysia and benefits from an established network of Malaysians already residing in Singapore. Notably, a <mark style="background: #FFF3A3A6;">Stanford University report from 2000 revealed that 46% of the Malaysian diaspora reside in Singapore</mark>, comprising 45% of Singapore's resident immigrant population.
 
-**(Ex)**
+**(Ex)** Discriminatory social policies that favour the Malays push educated and talented Chinese and Indian digitally smart workers. Many of these trained Chinese and Indians prefer to come to Singapore for the close proximity and the better exchange rate. Currently, Malaysians can easily earn up to 3 times in Singapore than in Malaysia due to the unfavourable currency exchange. This causes a huge brain drain in Malaysia hindering the country from getting a steady supply of digitally ready workforce. This becomes a major problem in their attempts to become a digital hub because of the lack of digital labour which may push away foreign investment and MNCs.
 
-**(L)** Hence,
+**(L)** Hence, Malaysia's failure to retain its talented people causes a shortage in digital labour which will hinder it in its progress to become a digital hub
 
 **Counter 2**
 
