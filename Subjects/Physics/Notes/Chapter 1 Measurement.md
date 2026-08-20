@@ -33,10 +33,10 @@
     - **Digital Micrometer:** Measures to 0.001 mm; record readings to **0.01 mm**.
 - **Random Error:** Readings scattered about the true value with no pattern. Reduced by **averaging repeated measurements**. Causes: Human reaction time, environment changes, parallax.
 - **Systematic Error:** Readings consistently off in one direction. **Not** reduced by averaging. Causes: Zero error, incorrect calibration.
-
+![[Pasted image 20260820220123.png]]
 **4. TIME & THE SIMPLE PENDULUM**
 
-- **Key Formula:** $T=2πgl$​![](data:image/svg+xml;utf8,<svg%20xmlns="http://www.w3.org/2000/svg"%20width="400em"%20height="1.88em"%20viewBox="0%200%20400000%201944"%20preserveAspectRatio="xMinYMin%20slice"><path%20d="M983%2090%0Al0%20-0%0Ac4,-6.7,10,-10,18,-10%20H400000v40%0AH1013.1s-83.4,268,-264.1,840c-180.7,572,-277,876.3,-289,913c-4.7,4.7,-12.7,7,-24,7%0As-12,0,-12,0c-1.3,-3.3,-3.7,-11.7,-7,-25c-35.3,-125.3,-106.7,-373.3,-214,-744%0Ac-10,12,-21,25,-33,39s-32,39,-32,39c-6,-5.3,-15,-14,-27,-26s25,-30,25,-30%0Ac26.7,-32.7,52,-63,76,-91s52,-60,52,-60s208,722,208,722%0Ac56,-175.3,126.3,-397.3,211,-666c84.7,-268.7,153.8,-488.2,207.5,-658.5%0Ac53.7,-170.3,84.5,-266.8,92.5,-289.5z%0AM1001%2080h400000v40h-400000z"></path></svg>)​.
+- **Key Formula:** $T=2πgl$​![](data:image/svg+xml;utf8,<svg%20xmlns="http://www.w3.org/2000/svg"%20width="400em"%20height="1.88em"%20viewBox="0%200%20400000%201944"%20preserveAspectRatio="xMinYMin%20slice"><path%20d="M983%2090%0Al0%20-0%0Ac4,-6.7,10,-10,18,-10%20H400000v40%0AH1013.1s-83.4,268,-264.1,840c-180.7,572,-277,876.3,-289,913c-4.7,4.7,-12.7,7,-24,7%0As-12,0,-12,0c-1.3,-3.3,-3.7,-11.7,-7,-25c-35.3,-125.3,-106.7,-373.3,-214,-744%0Ac-10,12,-21,25,-33,39s-32,39,-32,39c-6,-5.3,-15,-14,-27,-26s25,-30,25,-30%0Ac26.7,-32.7,52,-63,76,-91s52,-60,52,-60s208,722,208,722%0Ac56,-175.3,126.3,-397.3,211,-666c84.7,-268.7,153.8,-488.2,207.5,-658.5%0Ac53.7,-170.3,84.5,-266.8,92.5,-289.5z%0AM1001%2080h400000v40h-400000z"></path></svg>)​
 - **Key Relationships:**
     - **Period (**T**):** Increases if length (l) increases or gravity (g) decreases.
     - **Independence:** T is **independent** of the bob's **mass** and the **amplitude** (for small angles).
