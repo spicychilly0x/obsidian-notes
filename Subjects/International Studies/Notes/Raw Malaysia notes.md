@@ -70,13 +70,16 @@ Malaysia is trying to re-invent itself as the digital hub of SEA to take advanta
 
 -       Furthermore, Malaysia ranks among the top 11 most restrictive countries regarding digital trade, as per the Digital Trade Restrictiveness Index compiled by the OECD. This places Malaysia above the global median and significantly higher than neighboring economies like the Philippines and Singapore.
 
-**(Ex)**
+**(Ex)** Malaysia's SMEs are the backbone of the countries' economy. Despite the government creating a digital platform for them, these SMEs reject the offer. Only 15% of SMEs are using the platform, the Malaysian government puts many restrictions to ecommerce. They have poor digital security laws and very little legal framework to help SMEs if their online websites are hacked. This poor protection deters many companies from using the Malaysian government's ecommerce platform which prevents foreign firms and foreign investment from coming into Malaysia. 
 
-**(L)** Hence,
+**(L)** Hence, the lack of take up rate of local SMEs prevent Malaysia from growing its digital economy, hampering its efforts to become a digital hub
 
 **Conclusion**
 
-In conclusion, this essay still believes that Malaysia will succeed in its attempts to become a digital hub. **(THESIS)**. This is because the Malaysian government has created programs that have **(criteria)**. These programs clearly show that **(explanation and elaboration of criteria)**. The implications of these programs, as such, **(explanation and elaboration of implications).**
+In conclusion, this essay still believes that Malaysia will succeed in its attempts to become a digital hub. **(THESIS)**. This is because the Malaysian government has created programs that have **(criteria)**  This is because the Malaysian government's programmes are bigger in scale and have a huge impact on the country's digital economy. These programmes clearly target school children, university students, part time workers and low income families which contain at least 70-80% of the Malaysian population. These programes help train Malaysians to become a digitally competent workforce that can supply steady labour to digital firms locally and also foreign MNCs coming to Malaysia.. These programs clearly show that the malaysian government has a structured approach to educating a large number of citizens, turning it into a success. The implications of these programs, as such, **(explanation and elaboration of implications).** 
+
+
+In conclusion, this essay still believes that Malaysia will not succeed in its attempts to become a digital hub. **(THESIS)**. This is because the Malaysia government has created programmes that lack depth. These programmes show that Malaysian government policies are surface level changes. There is very little legal protection or digital security protection for consumers and businesses to buy and sell goods online without fear. These programs clearly show that the malaysian government has a structured approach to educating a large number of citizens, turning it into a success. The implications of these programs, as such, show that without this foundational protection, local consumers and SMEs are prone to scams and hacks, leading to the loss of millions of dollars, making Malaysia a laughingstock among the digital communities, making its attempts to become a digital hub a huge failure
 
 |   |   |
 |---|---|
