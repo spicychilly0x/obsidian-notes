@@ -62,15 +62,16 @@ During the <mark style="background: #FFF3A3A6;">First Indochina War</mark>   bet
 
 Vietnam and China have a shared borderline of around 1,350 km. On 31 December 1999, China and Vietnam signed a border agreement based on China’s treaty with France. The two countries utilized the 1887-1895 Convention signed by France and the Qing Dynasty and relevant historical documents, planning and border marker placement maps as well as defined border marks to re-define the land borderline. According to Ministry of the Foreign Affairs of the PRC, the signing of the treaty meant that all outstanding issues relating to the land border between China and Vietnam were resolved. In 1992, 21 border trade points were opened of which four served as border crossings. On 25 December 2000, China and Vietnam signed two agreements regarding the Tonkin Gulf that demarcated the territorial waters and their respective Exclusive Economic Zones (EEZs) and they established regulations to manage fishing operations
 
-**(Ex)**
+**(Ex)** China and Vietnam show that they are willing to engage each other diplomatically when it comes to border issues. There were many points of contention along the 1350km of border they shared due to differences based on China's original treaty with France. Unlike their unresolvable dispute along the South China Seas, China and Vietnam, show that they are willing to set aside differences. This shows friendly intentions of the highest order because land border disputes are difficult to manage.
 
-**Link?**
-
-Hence,
+Hence, the easy negotiations over land dispute show that China and Vietnam have a friendly relationship with one another.
 
 **Conclusion**
 
-**In conclusion,** this essay **still** believes that the Vietnam-China relations has been friendly to a large extent. **(THESIS)**. This is because both governments policies have **(criteria)**. These actions clearly show that **(explanation and elaboration of criteria)**. The implications of these actions, as such, **(explanation and elaboration of implications).**
+**In conclusion,** this essay **still** believes that the Vietnam-China relations has been hostile to a large extent. **(THESIS)**. This is because both governments show great intensities in their military engagements more than their diplomatic negotiations. These actions clearly show that they are willing to sacrifice lives to protect their national interest and sovereignty. They are not willing to compromise on issues pertaining to these matters. The implications of these actions, as such, clearly demonstrate that China and Vietnam have a hostile relationship when it comes to issues that are integral to the country's survival and identity and therefore they will not engaged in diplomatic negotiations in the future regarding such issues. 
+
+
+**In conclusion,** this essay **still** believes that the Vietnam-China relations has been hostile to a large extent. **(THESIS)**. This is because both governments have shown sufficient depth in their policies to ensure that there is peace among them. These actions clearly show that both China and Vietnam value peaceful and friendly relations above border or territorial disputes. they could have easily engaged in warfare but chose to engage each other peacefully. The implications of such show that China and Vietnam do seek diplomatic measures in order to prioritize their friendly relations and therefore will continue to do so in the near future because they value their relationship
 
 |   |   |
 |---|---|
