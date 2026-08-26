@@ -1,4 +1,3 @@
-1. finish cmath and amath
+1. finish amath 7A
 2. finish due chem and physics hw
-3. do bio notes
-4. add pics to physics and bio notes
+3. add pics to physics and bio notes
