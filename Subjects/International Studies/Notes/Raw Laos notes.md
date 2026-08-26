@@ -58,9 +58,9 @@ Laos’s hydropower strategy has enhanced environmental security in mainland Sou
 
 The **Mekong River Commission (MRC)** has expanded data-sharing platforms, introduced basin-wide modelling tools, and improved real-time hydrological monitoring, allowing downstream states to better anticipate and respond to flow variability.  Since 2016, Laos has participated in the **Joint Platform for Data and Information Sharing** between China and downstream countries like Vietnam, Cambodia and Thailand, improving transparency over upstream dam operations and dry-season water releases. These mechanisms have helped mitigate extreme low-water events and have enhanced regional capacity to manage environmental risks collectively, thereby contributing to environmental security rather than undermining it.
 
-**(Ex)** The Mekong river dams have provided an excellent opportunity for China, Vietnam, Cambodia, Thailand and Laos to work together so that they can benefit best for the changes in the Mekong River. By sharing transparent data, the countries involved helps one another ensure that the Mekong River stays productive. This strengthens cooperation between these different countries and their diplomatic relations.
+**(Ex)** The Mekong river dams have provided an excellent opportunity for China, Vietnam, Cambodia, Thailand and Laos to work together so that they can benefit best for the changes in the Mekong River. By sharing transparent data, the countries involved helps one another ensure that the Mekong River stays productive. This strengthens cooperation between these different countries and their diplomatic relations. Overall, these opportunities, provides an excellent platform to strengthen relationships and maintain peace in the region. 
 
-**(L)** Hence,
+**(L)** Hence, the Mekong river dams provide an excellent opportunity to promote Asian stability and harmony.
 
 **Conclusion**
 
