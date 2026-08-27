@@ -5,7 +5,7 @@
 Section 1: Solving Quadratic Equations by Completing the Square
 
 - **Quadratic Equations**
-    - **Quadratic Equation**: An equation that can be written in the form $ax^2 + bx + c = 0$, where $a$, $b$, and $c$ are real numbers and $a \neq 0$1.
+    - **Quadratic Equation**: An equation that can be written in the form $ax^2 + bx + c = 0$, where $a$, $b$, and $c$ are real numbers and a =/ 0 .
         - To solve a quadratic equation means to find the values of the unknown variable, which are called the **roots** (or solutions) of the equation1.
 - **Completing the Square**
     - **Completing the Square**: An algebraic process of adding a constant term to a quadratic expression of the form $x^2 + bx$ so that it becomes a perfect square trinomial1.
