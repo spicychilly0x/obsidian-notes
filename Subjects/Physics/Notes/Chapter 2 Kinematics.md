@@ -3,16 +3,19 @@
 - **Distance (Scalar):** Total path length traveled.
 - **Displacement (Vector):** Shortest distance from start to end point in a straight line.
     - **Sign Convention:** Assign ‘+’ for right/up and ‘-’ for left/down.
-- **Average Speed:** $\frac{Total Distance}{Total Time}$​.
-- **Average Velocity:** $\frac{Total Displacement​}{Total Time}.$
+- **Average Speed:** 
+> $\frac{Total Distance}{Total Time}$​.
+- **Average Velocity:** 
+> $\frac{Total Displacement​}{Total Time}.$
 - **SI Unit:** Metres per second (m/s or m s−1).
 
 **2. ACCELERATION**
 
 - **Definition:** The **rate of change of velocity**.
-    - It is a **vector** quantity; SI unit is m/s2.
+    - It is a **vector** quantity; SI unit is m/s^2 .
 - **Formula:** a=Δtv−u​ (where v = final velocity, u = initial velocity).
 - **Uniform Acceleration:** Velocity changes at a constant rate.
+![[Pasted image 20260828231351.png|408]]
 - **Deceleration/Retardation:** Occurs when **speed reduces**; represented by a negative acceleration value if the initial motion is positive.
 - **Cause:** Acceleration occurs if speed changes, direction changes, or both change.
 

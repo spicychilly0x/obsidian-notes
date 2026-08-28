@@ -3,10 +3,10 @@
 - **Definition:** A physical quantity consists of a **numerical magnitude** and a **unit**.
 - **Base Quantities (Must Memorize):** There are seven fundamental quantities: **length** (m), **mass** (kg), **time** (s), **current** (A), **temperature** (K), **amount of substance** (mol), and **luminous intensity** (cd).
 - **Derived Quantities:** Derived from base quantities (e.g., speed, force, acceleration).
-- **Prefixes (Must Memorize):**
-    - $Tera (T): 10^12 | Giga (G): 10^9 | Mega (M): 10^6 | Kilo (k): 10^3.$
+- <mark style="background: #FFF3A3A6;">**Prefixes (Must Memorize</mark>):**
+    - $Tera (T): 10^12 |   Giga (G): 10^9 |   Mega (M): 10^6 |   Kilo (k): 10^3.$
     - $Deci (d): 10^−1 | Centi (c): 10^−2 | Milli (m): 10^−3 | Micro (μ): 10^−6 | Nano (n): 10^−9.$
-- **Scalars vs. Vectors:**
+- <mark style="background: #FFF3A3A6;">**Scalars vs. Vectors</mark>:**
     - **Scalars:** Magnitude only (e.g., distance, speed, mass, time, energy, density).
     - **Vectors:** Magnitude and direction (e.g., displacement, velocity, acceleration, weight, force).
 
@@ -17,8 +17,8 @@
     - **Leading zeros** in decimals are **not** significant (e.g., 0.001 is 1 s.f.).
     - **Trailing zeros** in decimals **are** significant (e.g., 0.00100 is 3 s.f.).
 - **Calculation Rules:**
-    - **Multiplication/Division:** Result follows the **least s.f.** of the input data.
-    - **Addition/Subtraction/Averaging:** Result follows the **least decimal places (d.p.)**.
+    - <mark style="background: #FFF3A3A6;">**Multiplication/Division:** Result follows the **least s.f.** of the input data.
+    - **Addition/Subtraction/Averaging:** Result follows the **least decimal places (d.p.)**.</mark>
 - **Unit Conversion Tip:** Use the "Prefix Method" for areas and volumes: $150 cm^2=150×(10−2 m)^2=1.5×10−2 m^2$.
 
 **3. ERROR ANALYSIS & INSTRUMENTS**
