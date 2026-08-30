@@ -11,7 +11,7 @@
 **2. Key Formula and Values**
 
 - **Weight (**W**):** The gravitational force acting on a body.
-- **Formula:** W=mg.
+- **<mark style="background: #FFF3A3A6;">Formula</mark>:** W=mg. [[Physics formulas]]
     - W = weight in Newtons (N)
     - m = mass in kilograms (kg)
     - g = gravitational field strength (N/kg or m/s2)
@@ -34,6 +34,6 @@
 - **Finding Mass from Weight:** If an object’s weight on Planet A is known, find its mass first (m=W/g) because **mass remains constant** regardless of where the object is moved.
 - **Calculating Weight on a Different Planet:**
     - Wnew​=(gold​Wold​​)×gnew​.
-    - _Example:_ If a rock weighs 46N on Venus (g=8.9) and you need its weight on Mars (g=3.7): (8.946​)×3.7=19N.
+    - _Example:_ If a rock weighs 46N on Venus (g=8.9) and you need its weight on Mars (g=3.7): 46N/8.9  x 3.7
 - **Finding** g **of an Unknown Planet:** g=mW​.
 - **Key Concept:** When an object is heated, its **mass remains constant** even if density or volume changes.

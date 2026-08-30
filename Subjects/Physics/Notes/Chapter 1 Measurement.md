@@ -3,7 +3,7 @@
 - **Definition:** A physical quantity consists of a **numerical magnitude** and a **unit**.
 - **Base Quantities (Must Memorize):** There are seven fundamental quantities: **length** (m), **mass** (kg), **time** (s), **current** (A), **temperature** (K), **amount of substance** (mol), and **luminous intensity** (cd).
 - **Derived Quantities:** Derived from base quantities (e.g., speed, force, acceleration).
-- <mark style="background: #FFF3A3A6;">**Prefixes (Must Memorize</mark>):** [[Physics formula]]
+- <mark style="background: #FFF3A3A6;">**Prefixes (Must Memorize</mark>):** [[Physics formulas]]
     - $Tera (T): 10^12 |   Giga (G): 10^9 |   Mega (M): 10^6 |   Kilo (k): 10^3.$
     - $Deci (d): 10^−1 | Centi (c): 10^−2 | Milli (m): 10^−3 | Micro (μ): 10^−6 | Nano (n): 10^−9.$
 - <mark style="background: #FFF3A3A6;">**Scalars vs. Vectors</mark>:**
@@ -39,7 +39,7 @@
 - <mark style="background: #FFF3A3A6;">**Key Formula</mark>:** $T=2π\left( \frac{l}{g} \right)^\left( \frac{1}{2} \right)$​    
 - g = gravitational potential energy
 - l = length of pendulum
-[[Physics formula]]
+[[Physics formulas]]
 - **Key Relationships:**
     - **Period (**T**):** <mark style="background: #FFF3A3A6;">Increases if length (l) increases or gravity (g) decreases.</mark>
     - **Independence:** T is **independent** of the bob's **mass** and the **amplitude** (for small angles).

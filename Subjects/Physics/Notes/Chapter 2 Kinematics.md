@@ -43,7 +43,7 @@
 - **Air Resistance:** Causes acceleration to decrease until **terminal velocity** is reached (gradient of v−t graph becomes zero).
 
 **5. EQUATIONS OF MOTION (Uniform Acceleration)**
-[[Physics formula]]
+[[Physics formulas]]
 - <mark style="background: #FFF3A3A6;">**Memorize these for calculation questions:**</mark>
     1. $v=u+at$
     2. $s=ut+\frac{1}{2}at^2$
