@@ -15,7 +15,7 @@
     - It is a **vector** quantity; SI unit is m/s^2 .
 - **Formula:** a=Δtv−u​ (where v = final velocity, u = initial velocity).
 - **Uniform Acceleration:** Velocity changes at a constant rate.
-![[Pasted image 20260828231351.png|408]]
+
 - **Deceleration/Retardation:** Occurs when **speed reduces**; represented by a negative acceleration value if the initial motion is positive.
 - **Cause:** Acceleration occurs if speed changes, direction changes, or both change.
 
@@ -30,6 +30,8 @@
     - **Instantaneous Speed:** Found by drawing a **tangent** to a non-linear graph and calculating its gradient.
 - **Distance-Time Graphs:** Always increasing or constant; gradient represents **Speed**.
 
+> (accelerating/decelerating) at an (increasing/decreasing rate)
+
 **4. FREE FALL & VERTICAL MOTION**
 
 - **Free Fall:** Motion where the **only** force acting on an object is gravity (no air resistance).
@@ -41,8 +43,8 @@
 - **Air Resistance:** Causes acceleration to decrease until **terminal velocity** is reached (gradient of v−t graph becomes zero).
 
 **5. EQUATIONS OF MOTION (Uniform Acceleration)**
-
-- **Memorize these for calculation questions:**
+[[Physics formula]]
+- <mark style="background: #FFF3A3A6;">**Memorize these for calculation questions:**</mark>
     1. $v=u+at$
     2. $s=ut+\frac{1}{2}at^2$
     3. $v^2−u^2=2as$

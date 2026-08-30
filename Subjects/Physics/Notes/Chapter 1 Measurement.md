@@ -3,7 +3,7 @@
 - **Definition:** A physical quantity consists of a **numerical magnitude** and a **unit**.
 - **Base Quantities (Must Memorize):** There are seven fundamental quantities: **length** (m), **mass** (kg), **time** (s), **current** (A), **temperature** (K), **amount of substance** (mol), and **luminous intensity** (cd).
 - **Derived Quantities:** Derived from base quantities (e.g., speed, force, acceleration).
-- <mark style="background: #FFF3A3A6;">**Prefixes (Must Memorize</mark>):**
+- <mark style="background: #FFF3A3A6;">**Prefixes (Must Memorize</mark>):** [[Physics formula]]
     - $Tera (T): 10^12 |   Giga (G): 10^9 |   Mega (M): 10^6 |   Kilo (k): 10^3.$
     - $Deci (d): 10^−1 | Centi (c): 10^−2 | Milli (m): 10^−3 | Micro (μ): 10^−6 | Nano (n): 10^−9.$
 - <mark style="background: #FFF3A3A6;">**Scalars vs. Vectors</mark>:**
@@ -36,9 +36,10 @@
 ![[Pasted image 20260820220123.png]]
 **4. TIME & THE SIMPLE PENDULUM**
 ![[Pasted image 20260820221112.png|659]]
-- **Key Formula:** $T=2π\left( \frac{l}{g} \right)^\left( \frac{1}{2} \right)$​
+- <mark style="background: #FFF3A3A6;">**Key Formula</mark>:** $T=2π\left( \frac{l}{g} \right)^\left( \frac{1}{2} \right)$​    
 - g = gravitational potential energy
-- l = length of pendulum![](data:image/svg+xml;utf8,<svg%20xmlns="http://www.w3.org/2000/svg"%20width="400em"%20height="1.88em"%20viewBox="0%200%20400000%201944"%20preserveAspectRatio="xMinYMin%20slice"><path%20d="M983%2090%0Al0%20-0%0Ac4,-6.7,10,-10,18,-10%20H400000v40%0AH1013.1s-83.4,268,-264.1,840c-180.7,572,-277,876.3,-289,913c-4.7,4.7,-12.7,7,-24,7%0As-12,0,-12,0c-1.3,-3.3,-3.7,-11.7,-7,-25c-35.3,-125.3,-106.7,-373.3,-214,-744%0Ac-10,12,-21,25,-33,39s-32,39,-32,39c-6,-5.3,-15,-14,-27,-26s25,-30,25,-30%0Ac26.7,-32.7,52,-63,76,-91s52,-60,52,-60s208,722,208,722%0Ac56,-175.3,126.3,-397.3,211,-666c84.7,-268.7,153.8,-488.2,207.5,-658.5%0Ac53.7,-170.3,84.5,-266.8,92.5,-289.5z%0AM1001%2080h400000v40h-400000z"></path></svg>)​
+- l = length of pendulum
+[[Physics formula]]
 - **Key Relationships:**
     - **Period (**T**):** <mark style="background: #FFF3A3A6;">Increases if length (l) increases or gravity (g) decreases.</mark>
     - **Independence:** T is **independent** of the bob's **mass** and the **amplitude** (for small angles).
