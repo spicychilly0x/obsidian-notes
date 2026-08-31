@@ -19,6 +19,7 @@
     - **Color Order (from longest to shortest wavelength):** Red, Orange, Yellow, Green, Blue, Indigo, Violet.
     - **Red:** Longest wavelength, lowest frequency, lowest energy.
     - **Violet:** Shortest wavelength, highest frequency, highest energy.
+![[Pasted image 20260831232143.png]]
 
 **3. Radiation Detectors**
 
@@ -40,7 +41,7 @@
 
 **5. Hazards and Safety Precautions**
 
-- **Ionising Effects (UV, X-rays, Gamma):**
+- **Ionising Effects (UV, X-rays, Gamma):**  (high-frequency, high-energy electromagnetic waves interact with the atoms or molecules inside living cells to **produce ions**)
     - **The Mechanism:** High-frequency, high-energy waves interact with atoms/molecules in cells to produce ions. These ions disrupt normal cell behavior, which can cause **cell death, mutations, diseases (like cancer), or organ failure**.
     - **X-Ray Safety:** Radiographers must stand behind **lead-glass screens** to reduce exposure to radiation.
     - **Gamma Safety:** Never handle radioactive sources with bare hands; use **tongs or forceps**. Never point sources at the body, especially the eyes.
