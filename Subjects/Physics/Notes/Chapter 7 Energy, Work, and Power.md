@@ -11,16 +11,26 @@
     - **Internal (Thermal):** All objects have this; hot objects have more.
     - **Nuclear:** Energy within the nuclei of atoms.
 
-**2. Key Formulas**
-
-- **Kinetic Energy (**Ek​**):** Ek​=21​mv2.
+**2. <mark style="background: #FFF3A3A6;">Key Formulas</mark>**
+[[Physics formulas]]
+- **Kinetic Energy (Ek​**): 
+$$
+ Ek​= \frac{1}{2}​mv^2.
+$$
     - m in kg; v in m/s.
-- **Gravitational Potential Energy (**Ep​**):** Ep​=mgh.
-    - g≈10 N/kg on Earth.
-- **Work Done (**W**):** W=F×d.
+- **Gravitational Potential Energy (**Ep​**):** 
+$$
+Ep​=mgh.
+$$
+    - g≈10 N/kg on Earth, h = height
+- **Work Done (**W**):** 
+$$
+W=F×d
+$$
     - d is the distance moved **in the direction of the force**.
     - If no distance is moved (e.g., holding a box at a constant height), work done is zero.
-- **Power (**P**):** P=tE​ or P=tW​.
+- **Power (**P**):** <mark style="background: #FFF3A3A6;">rate at which energy is transferred</mark>
+- P=tE​ or P=tW​.
     - Alternative Formula: P=F×v (Force × velocity).
     - SI Unit: Watt (**W**); 1 W=1 J/s.
 - **Efficiency:** (Total energy inputUseful energy output​)×100%.

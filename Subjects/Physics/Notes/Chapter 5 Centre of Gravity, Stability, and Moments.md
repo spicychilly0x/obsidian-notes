@@ -17,11 +17,11 @@
 - **Increasing Stability:**
     1. Lower the CG (e.g., add weight to the base).
     2. Widen the base area.
-
+![[Pasted image 20260831214644.png|685]]
 **3. Moment of a Force**
 
 - **Definition:** The **turning effect** of a force. It is the product of the force and the **perpendicular distance** from the line of action of the force to the pivot.
-- **Formula:** Moment=F×d.
+- **Formula:** <mark style="background: #FFF3A3A6;">Moment=F×d</mark>.  [[Physics formulas]]
     - F**:** Force in Newtons (N).
     - d**:** Perpendicular distance in meters (m) or centimeters (cm).
 - **SI Unit:** Newton-meter (Nm).
