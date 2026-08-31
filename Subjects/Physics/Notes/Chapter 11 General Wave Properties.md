@@ -28,9 +28,9 @@
 - **Pitch:** Sensation of frequency in sound; high pitch = high frequency.
 
 **4. Formulas and Relationships**
-
-- **Frequency-Period Relationship:** f=T1​.
-- **The Wave Equation:** v=fλ.
+[[Physics formulas]]
+- **Frequency-Period Relationship:** <mark style="background: #FFF3A3A6;">f=1/T</mark>​.
+- **The Wave Equation:** <mark style="background: #FFF3A3A6;">v=fλ</mark>.
 - **Must-Memorize Relationship:** When a wave passes from one medium to another (e.g., deep to shallow water), its **frequency remains constant**.
     - If speed (v) increases, wavelength (λ) must also increase.
 
