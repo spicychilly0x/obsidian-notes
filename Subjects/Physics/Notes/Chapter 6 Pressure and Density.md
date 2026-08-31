@@ -14,7 +14,7 @@
 **2. Pressure in Solids (**P**)**
 
 - **Definition:** Force acting per unit area.  
-- **Formula:** <mark style="background: #FFF3A3A6;">P=AF</mark>​.      P = pressure, A = area, F = force    [[Physics formulas]]
+- **Formula:** <mark style="background: #FFF3A3A6;">P=F/A</mark>​.      P = pressure, A = area, F = force    [[Physics formulas]]
 - **Units:** SI unit is **Pascal (**Pa**)** or N/m2.
 - **Exam Relationships:**
     - **Maximum Pressure:** Occurs when the force is applied to the **minimum surface area**.
