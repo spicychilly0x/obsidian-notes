@@ -32,7 +32,7 @@
 - **Definition:** Transfer of thermal energy via **electromagnetic waves** (infrared) without the need for a material medium. It can occur in a **vacuum**.
 - **Emission vs. Absorption:** All objects emit and absorb infrared radiation.
 - **Factors Affecting Rate:**
-    - **Surface Color & Texture:** Dull, black, and rough surfaces are the **best emitters and absorbers**; shiny, white, and smooth surfaces are **poor emitters/absorbers** but **good reflectors**.
+    - **Surface Color & Texture:** <mark style="background: #FFF3A3A6;">Dull, black, and rough surfaces are the best emitters and absorbers; shiny, white, and smooth surfaces are poor emitters/absorbers but good reflectors.</mark>
     - **Surface Temperature:** The higher the temperature relative to the surroundings, the higher the rate of emission.
     - **Surface Area:** Larger surface areas result in faster rates of emission and absorption.
 

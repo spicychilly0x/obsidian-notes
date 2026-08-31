@@ -4,14 +4,14 @@
 - **Composition:** All matter is made of tiny particles (atoms or molecules).
 - **Motion:** Particles are in **continuous random motion**.
 
-**2. Comparison of States of Matter**
+**2. <mark style="background: #FFF3A3A6;">Comparison of States of Matter</mark>**
 
-|Feature|**Solid**|**Liquid**|**Gas**|
-|---|---|---|---|
-|**Arrangement**|Closely packed; regular pattern.|Loosely packed; space for movement.|Very far apart.|
-|**Motion**|Vibrate about **fixed positions**.|Slide past one another in groups.|Move freely and randomly at high speeds.|
-|**Forces**|Very strong intermolecular forces.|Strong, but weaker than solids.|Weak (often negligible).|
-|**Kinetic Energy**|Least.|Moderate.|Most.|
+| Feature            | **Solid**                          | **Liquid**                          | **Gas**                                  |
+| ------------------ | ---------------------------------- | ----------------------------------- | ---------------------------------------- |
+| **Arrangement**    | Closely packed; regular pattern.   | Loosely packed; space for movement. | Very far apart.                          |
+| **Motion**         | Vibrate about **fixed positions**. | Slide past one another in groups.   | Move freely and randomly at high speeds. |
+| **Forces**         | Very strong intermolecular forces. | Strong, but weaker than solids.     | Weak (often negligible).                 |
+| **Kinetic Energy** | Least.                             | Moderate.                           | Most.                                    |
 
 **3. Brownian Motion**
 

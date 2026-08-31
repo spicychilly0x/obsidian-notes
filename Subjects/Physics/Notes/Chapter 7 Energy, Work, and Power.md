@@ -30,7 +30,10 @@ $$
     - d is the distance moved **in the direction of the force**.
     - If no distance is moved (e.g., holding a box at a constant height), work done is zero.
 - **Power (**P**):** <mark style="background: #FFF3A3A6;">rate at which energy is transferred</mark>
-- P=tE​ or P=tW​.
+$$
+	P=\frac{E}{t}   /or/      
+	 P=\frac{W}{t}
+$$
     - Alternative Formula: P=F×v (Force × velocity).
     - SI Unit: Watt (**W**); 1 W=1 J/s.
 - **Efficiency:** (Total energy inputUseful energy output​)×100%.

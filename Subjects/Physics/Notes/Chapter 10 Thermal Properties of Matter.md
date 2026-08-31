@@ -8,25 +8,31 @@
 - **SI Unit:** Joule (**J**).
 
 **2. Heat Capacity and Specific Heat Capacity**
-
+[[Physics formulas]]
 - **Heat Capacity (**C**):** The change in internal energy per unit change in temperature.
-    - **Formula:** C=ΔθQ​.
-    - **Units:** J/K or J/∘C.
+    - **Formula:** 
+$$
+    C=\frac{Q}{Δθ}​
+$$
+    - **Units:** J/K or J/∘C,  Δθ = change in temperature, Q= Joules required, c =heat capacity, m =  mass
     - **Factors:** Depends on the **mass** and the **material** of the substance.
 - **Specific Heat Capacity (**c**):** The change in internal energy per unit mass for each unit change in temperature.
-    - **Formula:** c=mC​=mΔθQ​.
+    - **Formula:**
+$$
+    c=\frac{c}{m}=\frac{Q}{mΔθ}
+$$
     - **Units:** J/(kg K) or J/(kg ∘C).
 - **Key Relationship (Warming/Cooling):**
     - Bodies with **high specific heat capacity** warm up and cool down **slower** than those with lower capacity (e.g., water).
     - Water is an ideal coolant because it can absorb large amounts of thermal energy with only a small temperature increase.
 
 **3. Phase Changes and Latent Heat**
-
+[[Physics formulas]]
 - **State Changes:** Processes like melting, solidification, boiling, and condensation occur at a **constant temperature**.
 - **Latent Heat (**L**):** Energy absorbed or released to change the state of a substance without changing its temperature.
 - **Specific Latent Heat (**l**):** Energy transferred **per unit mass** to change the state at a constant temperature.
-    - **Fusion (**lf​**):** Solid ↔ Liquid. **Formula:** Lf​=m⋅lf​.
-    - **Vaporization (**lv​**):** Liquid ↔ Gas. **Formula:** Lv​=m⋅lv​.
+    - **Fusion (**l**):** Solid ↔ Liquid. **Formula:** <mark style="background: #FFF3A3A6;">L​=ml</mark> (melting or solidification)
+    - **Vaporization (**l​**):** Liquid ↔ Gas. **Formula:** <mark style="background: #FFF3A3A6;">L​=ml</mark>​
 - **Molecular Behavior:** During boiling/melting, energy is used to **increase the average separation** of molecules (breaking/weakening bonds), not their speed.
 
 **4. Boiling vs. Evaporation**
