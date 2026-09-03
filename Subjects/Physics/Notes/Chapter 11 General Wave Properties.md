@@ -7,7 +7,7 @@
     - **Sound Waves:** Vibrations of particles in a medium (solid, liquid, or gas).
     - **Water Waves:** Vibration of water particles.
     - **Energy Conversion:** In water waves, particles exchange **kinetic energy** for **potential energy** as they oscillate between rest positions and crests/troughs.
-
+![[Pasted image 20260903215846.png]]
 **2. Types of Waves**
 
 - **Transverse Waves:** Direction of vibration is **perpendicular** to the direction of wave travel.
