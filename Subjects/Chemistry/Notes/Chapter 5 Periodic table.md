@@ -1,114 +1,105 @@
 **1. General Structure of the Periodic Table**
 
-- **Arrangement:** Elements are arranged in horizontal rows in ascending order of **proton (atomic) number**12.
-- **Periods (Horizontal Rows):** Period number corresponds directly to the **number of occupied electron shells** .
-- **Groups (Vertical Columns):** Group number (for main groups) corresponds to the **number of valence electrons**3. Elements in the same Group have similar chemical properties .
-- **Metals vs. Non-Metals:** Metals are positioned on the left, while non-metals are on the right . There is a stair-step diagonal of metalloids (e.g., $\text{Si}$) dividing them .
+- **Arrangement:** Elements are arranged horizontally in ascending order of **proton (atomic) number**.
+- **Periods (Horizontal Rows):** Period number corresponds to the **number of occupied electron shells** (numbered 1 to 7).
+- **Groups (Vertical Columns):** Group number (numbered 1 to 18) corresponds to the **number of valence electrons** (e.g., Group 17 has 7 valence electrons). Elements in the same group share similar chemical properties due to having the same outer valence electronic configuration.
+- **Metallic to Non-Metallic Character:** Across any period, elements transition from metallic (left, lose electrons easily to form cations) to non-metallic (right, gain electrons easily to form anions).
 
 ---
 
-**2. The "Big Three" Factors Governing Trends**
+**2. Period 3 Trends (Across the Period: (\text{Na} \rightarrow \text{Ar}))**
 
-Every trend down a group or across a period must be explained using three core factors :
+**Atomic Radius (Decreases Across)**
 
-1. **Nuclear Charge (**$Z$**):** Total positive charge of the nucleus (determined strictly by the number of protons)45.
-2. **Shielding Effect:** The shielding of valence electrons from the nucleus by inner-shell core electrons4.
-3. **Distance (Atomic Radius):** The distance between the nucleus and the valence electrons, determining the electrostatic force of attraction46.
+- **Relationship:** Proton number increases, which **increases the nuclear charge**. Inner-shell **shielding remains similar** because electrons are added to the same valence shell.
+- **Outcome:** Electrostatic force of attraction between the positive nucleus and valence electrons becomes **stronger**, pulling the valence shell closer and decreasing atomic radius.
 
----
+**Electronegativity (Increases Across)**
 
-**3. Period 3 Trends (Across the Period:** $\text{Na} \rightarrow \text{Cl}$**)**
+- **Definition:** The relative attraction an atom has for the shared electrons in a covalent bond.
+- **Relationship:** Nuclear charge increases and shielding remains similar while atomic radius decreases. The positive nucleus exerts a **stronger electrostatic pull on shared bonding electrons**.
+- _Note:_ Argon ((\text{Ar})) is monatomic, unreactive, and does not have an electronegativity value.
 
-**Atomic Radius (Decreases Across Period 3)**57
+**Structure, Bonding, and Melting Points**
 
-- **Reason:** From left to right, **proton number increases**, which **increases the nuclear charge**5. Since electrons are added to the same valence shell, **shielding remains similar**5.
-- **Outcome:** There is a **stronger electrostatic force of attraction** pulling the valence electrons closer to the nucleus, decreasing the atomic radius5.
-- _Note:_ Argon ($\text{Ar}$) is an exception with a larger radius than Chlorine ($\text{Cl}$) because it exists as free monatomic atoms, meaning its radius is determined by van der Waals non-bonded interactions7.
-
-**Electronegativity (Increases Across Period 3)**78
-
-- **Definition:** The relative attraction an atom has for shared electrons in a covalent bond .
-- **Reason:** Nuclear charge increases and shielding remains similar9, while atomic radius decreases5. Consequently, the nucleus exerts a **stronger pull on shared bonding electrons** .
-- _Note:_ Argon ($\text{Ar}$) does not have an electronegativity value because it is unreactive and does not form bonds8.
-
-**Metallic Character (Decreases Across Period 3)**9
-
-- **Reason:** Nuclear charge increases while shielding remains similar9. Elements lose valence electrons less easily (harder to form cations) but gain valence electrons more easily (easier to form anions)910. Thus, metallic properties decrease while non-metallic properties increase910.
-
-**Structure, Bonding, and Melting Points Across Period 2 & 3**10
-
-|Element(s)|Structure|Bonding Type|Melting Point Trend & Explanation|
+|Element(s)|Structure|Bonding|Melting Point Trend & Explanation|
 |---|---|---|---|
-|$\text{Na, Mg, Al}$|Giant metallic lattice|Strong metallic bonds|**Increases from** $\text{Na}$ **to** $\text{Al}$**:** Cationic charge increases ($\text{Na}^+ < \text{Mg}^{2+} < \text{Al}^{3+}$), more valence electrons are delocalised, and cationic size decreases, leading to a much stronger metallic bond .|
-|$\text{Si}$|Giant molecular|Strong covalent bonds|**Very High:** A massive amount of energy is required to break the strong, extensive covalent bonds holding the network of atoms together .|
-|$\text{P}_4, \text{S}_8, \text{Cl}_2$|Simple molecular|Weak London dispersion forces between molecules|**Low:** Little energy is required to overcome the weak intermolecular forces (covalent bonds within molecules are _not_ broken during melting)11. <br><br> _M.P. Order:_ $\text{S}_8 > \text{P}_4 > \text{Cl}_2$ because $\text{S}_8$ has more electrons, a larger electron cloud, is more easily distorted, resulting in stronger London dispersion forces12more_horiz.|
-|$\text{Ar}$|Monatomic|Very weak London dispersion forces between atoms|**Extremely Low:** Exists as single atoms with very minimal intermolecular attraction .|
+|**(\text{Na, Mg, Al})**|Giant metallic|Metallic bonds (electrostatic attraction between metal cations and delocalised sea of electrons)|**Increases from (\text{Na}) to (\text{Al}):** <br>1. Charge of the metal cation increases ((\text{Na}^+ < \text{Mg}^{2+} < \text{Al}^{3+})), contributing more delocalised electrons per atom to the sea. <br>2. Cationic radius decreases. <br>These factors result in significantly **stronger metallic bonding**.|
+|**(\text{Si})**|Giant molecular|Covalent bonds|**Extremely High:** A massive amount of energy is required to break the extensive, strong covalent bonds holding the network of silicon atoms together.|
+|**(\text{P}_4, \text{S}_8, \text{Cl}_2)**|Simple molecular|Weak intermolecular London dispersion forces|**Low:** Minimal thermal energy is required to overcome the weak intermolecular forces. Covalent bonds within the molecules are _not_ broken. <br><br> **Relative Order:** (\text{S}_8 > \text{P}_4 > \text{Cl}_2) because (\text{S}_8) is a larger molecule with more electrons, creating a larger, more polarisable electron cloud, resulting in stronger London dispersion forces.|
+|**(\text{Ar})**|Monatomic|Weak London dispersion forces|**Extremely Low:** Exists as individual atoms with very weak intermolecular attractions between them.|
 
-**Nature of Oxides Across Period 3**10
+**Nature of Oxides Across Period 3**
 
-- **Trend:** Basic $\rightarrow$ Amphoteric $\rightarrow$ Acidic10
-- **Basic Oxides:** $\text{Na}_2\text{O}$ and $\text{MgO}$10
-- **Amphoteric Oxide:** $\text{Al}_2\text{O}_3$ (reacts with both acids and bases)10
-- **Acidic Oxides:** $\text{SiO}_2$, $\text{P}_4\text{O}_{10}$, $\text{SO}_2$ / $\text{SO}_3$, $\text{Cl}_2\text{O}_7$10
-
----
-
-**4. Group 1: Alkali Metals**
-
-- **Physical Properties:** Soft (can be cut with a knife) , low densities , and low melting points compared to transition metals .
-- **Trends Down Group 1:**
-    - **Atomic Radius Increases:** More occupied electron shells increase the shielding effect, weakening the nuclear pull on outer electrons4.
-    - **Melting Point Decreases:** Atomic radius increases, so the distance between the nucleus and the delocalised "sea" of electrons increases, weakening the metallic bond strength .
-    - **Reactivity Increases:** As the outer shell moves further from the nucleus and shielding increases, the electrostatic attraction decreases, allowing the single valence electron to be lost much more easily9.
-- **Reactions with Cold Water (Must Memorize):**15
-    - **General Reaction:** $2\text{M(s)} + 2\text{H}_2\text{O(l)} \rightarrow 2\text{MOH(aq)} + \text{H}_2\text{(g)}$
-    - $\text{Li}$**:** Floats and fizzes; disappears quickly .
-    - $\text{Na}$**:** Melts into a silver ball; darts around the surface; burns with an orange flame .
-    - $\text{K}$**:** Reacts explosively/violently; burns immediately with a **lilac flame** .
-- **Reaction with Halogens:** React vigorously to form white ionic salts: $2\text{M(s)} + \text{X}_2\text{(g)} \rightarrow 2\text{MX(s)}$ .
+- **Trend:** Basic (\rightarrow) Amphoteric (\rightarrow) Acidic
+    - **Basic Oxides:** (\text{Na}_2\text{O}, \text{MgO}) (react with acids to form salt + water).
+    - **Amphoteric Oxide:** (\text{Al}_2\text{O}_3) (reacts with both acids and bases to form salt + water).
+    - **Acidic Oxides:** (\text{SiO}_2, \text{P}_4\text{O}_{10}, \text{SO}_2, \text{SO}_3, \text{Cl}_2\text{O}_7) (react with bases/alkalis to form salt + water).
 
 ---
 
-**5. Group 17: Halogens**
+**3. Group 1: Alkali Metals ((\text{Li}, \text{Na}, \text{K}, \text{Rb}, \text{Cs}, \text{Fr}))**
 
-- **Diatomic state:** All exist naturally as diatomic molecules ($\text{X}_2$) .
+- **General Properties:** Soft (can be cut with a knife), low densities, and low melting points compared to transition metals. Valence shell electronic configuration is (\text{ns}^1).
 
-**Physical States, Colours & Trends Down Group 17**16
+**Trends Down Group 1:**
 
-|Halogen|State (at r.t.p.)|Colour|Melting & Boiling Point Trend|Reactivity (Oxidising Power) Trend|
+- **Atomic Radius Increases:** Number of occupied electron shells increases, which **increases the shielding effect**. This outweighs the increase in nuclear charge, weakening the electrostatic attraction on outer valence electrons.
+- **Melting Point Decreases:** Atomic/cationic radius increases, increasing the distance between the positive nucleus and the delocalised "sea" of electrons, **weakening the metallic bond strength**.
+- **Reactivity Increases:** As atomic size and shielding increase down the group, the single valence electron experiences a weaker nuclear pull and is **lost much more easily**.
+
+**Reactions with Cold Water (Must Memorize):**
+
+- **General Equation:** $2\text{M(s)} + 2\text{H}_2\text{O(l)} \rightarrow 2\text{MOH(aq)} + \text{H}_2\text{(g)}$ (produces an alkaline solution and hydrogen gas).
+- **Observations:**
+    - **(\text{Li}):** Floats, fizzes, and disappears quickly.
+    - **(\text{Na}):** Melts into a shiny silver ball, darts rapidly across the water surface, fizzes, and may burn with an orange flame.
+    - **(\text{K}):** Reacts violently, fizzes, darts rapidly, and burns immediately with a **lilac flame**.
+
+---
+
+**4. Group 17: Halogens ((\text{F}_2, \text{Cl}_2, \text{Br}_2, \text{I}_2, \text{At}_2))**
+
+- **General Properties:** Exist naturally as diatomic molecules ((\text{X}_2)) with simple molecular structures. Valence shell electronic configuration is (\text{ns}^2\text{np}^5).
+
+**Physical States, Colours & Trends Down Group 17:**
+
+|Halogen|State (at r.t.p.)|Colour|Melting & Boiling Point Trend|Reactivity (Oxidising Strength) Trend|
 |---|---|---|---|---|
-|**Fluorine (**$\text{F}_2$**)**|Gas|Pale yellow|**Increases Down Group 17:** <br>Molecular size and electron count increase $\rightarrow$ larger electron clouds are more easily distorted $\rightarrow$ stronger London dispersion forces $\rightarrow$ more energy needed to melt/boil12more_horiz.|**Decreases Down Group 17:** <br>Atomic radius and shielding increase $\rightarrow$ weaker electrostatic attraction between the positive nucleus and incoming electrons, making them harder to gain9.|
-|**Chlorine (**$\text{Cl}_2$**)**|Gas|Greenish-yellow|||
-|**Bromine (**$\text{Br}_2$**)**|Liquid1617|Reddish-brown|||
-|**Iodine (**$\text{I}_2$**)**|Solid|Purplish-black|||
-|**Astatine (**$\text{At}_2$**)**|Solid|Black|||
+|**Fluorine ((\text{F}_2))**|Gas|Pale yellow|**Increases Down the Group:** <br>Molecules become larger with more electrons (\rightarrow) electron cloud is more easily polarised/distorted (\rightarrow) **intermolecular London dispersion forces strengthen** (\rightarrow) more energy is required to boil/melt.|**Decreases Down the Group:** <br>Atomic radius and shielding increase (\rightarrow) electrostatic attraction between positive nucleus and incoming electrons weakens (\rightarrow) **electrons are gained less easily**.|
+|**Chlorine ((\text{Cl}_2))**|Gas|Greenish-yellow|||
+|**Bromine ((\text{Br}_2))**|Liquid|Reddish-brown|||
+|**Iodine ((\text{I}_2))**|Solid|Purplish-black|||
+|**Astatine ((\text{At}_2))**|Solid|Black|||
 
-- **Halogen Displacement Reactions:** A more reactive halogen will displace a less reactive halide ion from its solution18.
-    - _Example:_ $\text{Cl}_2\text{(aq)} + 2\text{KBr(aq)} \rightarrow 2\text{KCl(aq)} + \text{Br}_2\text{(aq)}$
-    - _Ionic Equation:_ $\text{Cl}_2\text{(aq)} + 2\text{Br}^-\text{(aq)} \rightarrow 2\text{Cl}^-\text{(aq)} + \text{Br}_2\text{(aq)}$ (solution turns from colourless to orange) .
-
----
-
-**6. Group 18: Noble Gases**
-
-- **Properties:** Unreactive (inert), monatomic gases .
-- **Reason for Inertness:** Possess a fully filled outer shell of electrons (stable octet/duplet configuration), meaning they have no tendency to lose, gain, or share electrons19.
-- **Key Uses to Memorize:**
-    - **Helium (**$\text{He}$**):** Filling weather balloons (low density, non-flammable) .
-    - **Neon (**$\text{Ne}$**):** Advertising neon signs .
-    - **Argon (**$\text{Ar}$**):** Providing an inert atmosphere in light bulbs to prevent tungsten filament oxidation .
+- **Halogen Displacement Reactions:** A more reactive (more oxidizing) halogen will displace a less reactive halide ion from its aqueous solution.
+    - _Example:_ (\text{Cl}_2\text{(aq)} + 2\text{KBr(aq)} \rightarrow 2\text{KCl(aq)} + \text{Br}_2\text{(aq)})
+    - _Ionic Equation:_ (\text{Cl}_2\text{(aq)} + 2\text{Br}^-\text{(aq)} \rightarrow 2\text{Cl}^-\text{(aq)} + \text{Br}_2\text{(aq)}) (colourless solution turns orange due to (\text{Br}_2) formation).
 
 ---
 
-**7. Chemistry of Transition Elements**
+**5. Group 18: Noble Gases ((\text{He}, \text{Ne}, \text{Ar}, \text{Kr}, \text{Xe}, \text{Rn}))**
 
-- **Definition:** d-block metals (Groups 3 to 11) that form stable ions with **partially filled (incomplete) d-subshells**20.
-    - _Note:_ Zinc ($\text{Zn}$) is **not** a transition element because its atom ($[\text{Ar}]3d^{10}4s^2$) and ion ($\text{Zn}^{2+}: [\text{Ar}]3d^{10}$) have fully filled d-subshells20.
-- **Four Unique Properties to Memorize:**
-    1. **Variable Oxidation States:** Can lose varying numbers of s and d electrons (e.g., $\text{Fe}^{2+}, \text{Fe}^{3+}$)2021.
-    2. **Form Coloured Compounds:** Many transition ions are coloured in solid and aqueous states (e.g., hydrated copper(II) salts are blue)22.
-    3. **Catalytic Properties:** Elements and their compounds function as catalysts .
-        - _Iron (_$\text{Fe}$_):_ Haber Process ($3\text{H}_2 + \text{N}_2 \rightleftharpoons 2\text{NH}_3$) .
-        - _Nickel (_$\text{Ni}$_):_ Hydrogenation of alkenes .
-        - _Manganese(IV) oxide (_$\text{MnO}_2$_):_ Decomposition of hydrogen peroxide ($2\text{H}_2\text{O}_2 \rightarrow 2\text{H}_2\text{O} + \text{O}_2$) .
-    4. **High Densities and Melting Points:** Much higher compared to Group 1 and 2 metals .
+- **Properties:** Monatomic gases with extremely low melting and boiling points due to very weak London dispersion forces.
+- **Inertness:** Chemical unreactivity is due to their **fully filled valence shells** (stable octet/duplet configurations). They have no tendency to lose, gain, or share valence electrons.
+- **Key Applications (Must Memorize):**
+    - **Helium ((\text{He})):** Used for filling weather balloons because it has an extremely low density and is non-flammable.
+    - **Neon ((\text{Ne})):** Used in neon advertising signs because it emits a brilliant red-orange glow when excited by electricity.
+    - **Argon ((\text{Ar})):** Used in light bulbs to provide an inert atmosphere that prevents tungsten filament oxidation, and in chemical manufacturing to protect easily oxidized materials.
+
+---
+
+**6. Chemistry of Transition Elements**
+
+- **Definition:** d-block metallic elements (located in Groups 3 to 11) that form stable ions with **incomplete (partially filled) d-subshells**.
+    - _Note:_ Zinc ((\text{Zn})) is **not** a transition element because its atom (([\text{Ar}]3\text{d}^{10}4\text{s}^2)) and stable ion ((\text{Zn}^{2+}: [\text{Ar}]3\text{d}^{10})) both possess completely filled d-subshells.
+
+**Four Unique Characteristics (Must Memorize):**
+
+1. **Variable Oxidation States:** Transition elements can lose varying numbers of s and d electrons to form stable ions (e.g., (\text{Fe}^{2+}) and (\text{Fe}^{3+})).
+2. **Formation of Coloured Compounds:** Many transition metal ions form coloured substances in solid and aqueous states (e.g., (\text{Cu}^{2+}) salts are blue, (\text{Mn}^{2+}) is pale pink).
+3. **High Densities and Melting Points:** Transition metals have much higher densities and melting points than Group 1 and 2 metals due to stronger metallic bonding from delocalising d-shell electrons.
+4. **Catalytic Properties:** Transition metals and their compounds are effective catalysts to speed up reactions:
+    - **Iron ((\text{Fe})):** Catalyst in the **Haber Process** ((\text{N}_2\text{(g)} + 3\text{H}_2\text{(g)} \rightleftharpoons 2\text{NH}_3\text{(g)})).
+    - **Nickel ((\text{Ni})):** Catalyst in the **hydrogenation of alkenes** to form alkanes.
+    - **Manganese(IV) Oxide ((\text{MnO}_2)):** Catalyst in the **decomposition of hydrogen peroxide** ($2\text{H}_2\text{O}_2\text{(aq)} \rightarrow 2\text{H}_2\text{O(l)} + \text{O}_2\text{(g)}$).
