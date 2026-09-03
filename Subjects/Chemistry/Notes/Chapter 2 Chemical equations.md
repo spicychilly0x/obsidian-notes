@@ -13,17 +13,17 @@
 
 To write correct chemical formulae, balance the positive and negative charges to make the overall charge **zero**.
 
-|**Cation (+)**|**Formula**|**Anion (-)**|**Formula**|
-|---|---|---|---|
-|Ammonium|$\text{NH}_4^+$|Hydride|$\text{H}^-$|
-|Silver|$\text{Ag}^+$|Fluoride / Halides|$\text{F}^-$, $\text{Cl}^-$, $\text{Br}^-$, $\text{I}^-$|
-|Copper(II)|$\text{Cu}^{2+}$|Hydroxide|$\text{OH}^-$|
-|Iron(II)|$\text{Fe}^{2+}$|Nitrate|$\text{NO}_3^-$|
-|Iron(III)|$\text{Fe}^{3+}$|Oxide / Sulfide|$\text{O}^{2-}$, $\text{S}^{2-}$|
-|Zinc|$\text{Zn}^{2+}$|Carbonate / Sulfite|$\text{CO}_3^{2-}$, $\text{SO}_3^{2-}$|
-|Lead(II)|$\text{Pb}^{2+}$|Sulfate|$\text{SO}_4^{2-}$|
-|Calcium / Magnesium|$\text{Ca}^{2+}$, $\text{Mg}^{2+}$|Nitride|$\text{N}^{3-}$|
-|Aluminum|$\text{Al}^{3+}$|Phosphate|$\text{PO}_4^{3-}$|
+| **Cation (+)**      | **Formula**                        | **Anion (-)**       | **Formula**                                              |
+| ------------------- | ---------------------------------- | ------------------- | -------------------------------------------------------- |
+| Ammonium            | $\text{NH}_4^+$                    | Hydride             | $\text{H}^-$                                             |
+| Silver              | $\text{Ag}^+$                      | Fluoride / Halides  | $\text{F}^-$, $\text{Cl}^-$, $\text{Br}^-$, $\text{I}^-$ |
+| Copper(II)          | $\text{Cu}^{2+}$                   | Hydroxide           | $\text{OH}^-$                                            |
+| Iron(II)            | $\text{Fe}^{2+}$                   | Nitrate             | $\text{NO}_3^-$                                          |
+| Iron(III)           | $\text{Fe}^{3+}$                   | Oxide / Sulfide     | $\text{O}^{2-}$, $\text{S}^{2-}$                         |
+| Zinc                | $\text{Zn}^{2+}$                   | Carbonate / Sulfite | $\text{CO}_3^{2-}$, $\text{SO}_3^{2-}$                   |
+| Lead(II)            | $\text{Pb}^{2+}$                   | Sulfate             | $\text{SO}_4^{2-}$                                       |
+| Calcium / Magnesium | $\text{Ca}^{2+}$, $\text{Mg}^{2+}$ | Nitride             | $\text{N}^{3-}$                                          |
+| Aluminum            | $\text{Al}^{3+}$                   | Phosphate           | $\text{PO}_4^{3-}$                                       |
 
 ---
 
