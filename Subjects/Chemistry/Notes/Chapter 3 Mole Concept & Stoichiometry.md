@@ -5,6 +5,9 @@
 - **Relative Atomic Mass (**$A_r$**):** The ratio of the average mass of one atom of an element to $\frac{1}{12}$ of the mass of an atom of the $^{12}\text{C}$ isotope on the $^{12}\text{C}$ scale. $$A_r = \sum \left( \text{isotopic mass} \times \text{isotopic abundance} \right)$$
 - **Relative Molecular Mass (**$M_r$**):** The ratio of the average mass of one molecule of a covalent substance to $\frac{1}{12}$ of the mass of an atom of the $^{12}\text{C}$ isotope on the $^{12}\text{C}$ scale (sum of the $A_r$ of all constituent atoms in the molecule).
 - **Relative Formula Mass (**$M_r$**):** The identical ratio used specifically for ionic compounds because they do not exist as discrete molecules.
+- Molar ratio:  
+	- Zn+H2SO4 --> ZnSO4 + H2   
+	- molar ratio of zn to znso4 is 1:1
 
 
 | Element | Relative molecular mass | Molar mass |
