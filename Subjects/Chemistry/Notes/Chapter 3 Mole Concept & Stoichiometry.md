@@ -6,6 +6,12 @@
 - **Relative Molecular Mass (**$M_r$**):** The ratio of the average mass of one molecule of a covalent substance to $\frac{1}{12}$ of the mass of an atom of the $^{12}\text{C}$ isotope on the $^{12}\text{C}$ scale (sum of the $A_r$ of all constituent atoms in the molecule).
 - **Relative Formula Mass (**$M_r$**):** The identical ratio used specifically for ionic compounds because they do not exist as discrete molecules.
 
+
+| Element | Relative molecular mass | Molar mass |
+| ------- | ----------------------- | ---------- |
+| C       | 12.01                   | 12.01g/mol |
+| N       | 14.01                   | 14.01g/mol |
+
 ---
 
 **2. The Mole & Molar Mass**
