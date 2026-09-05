@@ -158,14 +158,15 @@ These substances do not consist of discrete molecules. Instead, they exist as a 
 
 **9. Classification of Structures & Properties**
 
-|Structure Type|Giant Metallic|Giant Ionic|Simple Molecular|Giant Covalent|
-|---|---|---|---|---|
-|**Particles Present**|Metal cations & delocalised electrons|Alternating positive & negative ions|Discrete molecules|Non-metal atoms|
-|**Type of Bonding**|Metallic bonds|Ionic bonds|Covalent bonds (intra) & weak IMFs (inter)|Covalent bonds only|
-|**Melting Points**|High to very high|Very high|Low|Extremely high|
-|**Solid Conductivity**|**Good**|**Poor** (immobile ions)|**Poor**|**Poor** (except Graphite)|
-|**Liquid Conductivity**|**Good**|**Good** (mobile ions)|**Poor**|**Poor** (except Graphite)|
-|**Solubility**|Insoluble|Generally soluble in water|Soluble in organic solvents|Insoluble|
+| Structure Type          | Giant Metallic                        | Giant Ionic Lattice                                                                     | Simple Molecular                                           | Giant Covalent             |
+| ----------------------- | ------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------- |
+| **Particles Present**   | Metal cations & delocalised electrons | Alternating positive & negative ions                                                    | Discrete molecules                                         | Non-metal atoms            |
+| **Type of Bonding**     | Strong Metallic bonds                 | strong electrostatic forces of attraction between oppositely charged ions (ionic bonds) | Covalent bonds (intra) & coordinate covalent bonds (inter) | Covalent bonds only        |
+| **Melting Points**      | High to very high                     | Very high                                                                               | Low                                                        | Extremely high             |
+| **Solid Conductivity**  | **Good**                              | **Poor** (immobile ions)                                                                | **Poor**                                                   | **Poor** (except Graphite) |
+| **Liquid Conductivity** | **Good**                              | **Good** (mobile ions)                                                                  | **Poor**                                                   | **Poor** (except Graphite) |
+| **Solubility**          | Insoluble                             | Generally soluble in water                                                              | Soluble in organic solvents                                | Insoluble                  |
+|                         |                                       |                                                                                         |                                                            |                            |
 
 ---
 
