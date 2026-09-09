@@ -1,7 +1,6 @@
 
-1. larts paper 2 planning
-2. amath paper finish
-3. do chinese papers from sch
-4. do tuition chinese paper
-5. study bio
-6. continue all sciences
+1. amath paper finish
+2. do chinese papers from sch
+3. do tuition chinese paper
+4. study bio
+5. continue 1 phys paper and 1 chem paper
