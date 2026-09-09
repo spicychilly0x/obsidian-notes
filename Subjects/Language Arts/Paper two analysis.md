@@ -1,9 +1,9 @@
 
-| Section      | Question | 2021                                                                  |     |     |     |     | analysis |
-| ------------ | -------- | --------------------------------------------------------------------- | --- | --- | --- | --- | -------- |
-| Hook & Eye   | 1.       | two stories to show irony enhances understanding of themes            |     |     |     |     |          |
-|              | 2a.      | identify where this passage is from and show how is ___ characterized |     |     |     |     |          |
-|              | 2b.      | This story+another, examine openings                                  |     |     |     |     |          |
-| Poetry Moves | 3        |                                                                       |     |     |     |     |          |
-|              | 4a       |                                                                       |     |     |     |     |          |
-|              | 4b       |                                                                       |     |     |     |     |          |
+| Section      | Question | 2021                                                                  | 2022                                                                         | 2023                                                        |     |     | analysis |
+| ------------ | -------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------- | --- | --- | -------- |
+| Hook & Eye   | 1.       | two stories to show irony enhances understanding of themes            | two stories to show how characterization help characters be memorable        | two stories to show how setting helps convey theme          |     |     |          |
+|              | 2a.      | identify where this passage is from and show how is ___ characterized | identify where is from and show how setting is presented                     | identify which part it is from and give impressions of ____ |     |     |          |
+|              | 2b.      | This story+another, examine openings                                  | This story+ another show the significance of the titles                      |                                                             |     |     |          |
+| Poetry Moves | 3        | how two poems use poetic techniques to show the theme of alienation   | two poems to show how conflict presents themes                               |                                                             |     |     |          |
+|              | 4a       | how is ___ presented                                                  | how is ___ presented                                                         |                                                             |     |     |          |
+|              | 4b       | this poem+ another to show how conflict is presented                  | this poem + another to show how what reader emotions and how they are evoked |                                                             |     |     |          |
