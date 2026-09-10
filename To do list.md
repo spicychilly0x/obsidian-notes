@@ -1,6 +1,5 @@
 
-1. amath paper finish
-2. do chinese papers from sch
-3. do tuition chinese paper
-4. study bio
-5. continue 1 phys paper and 1 chem paper
+1. do chinese papers from sch
+2. do tuition chinese paper
+3. study bio
+4. continue 1 phys paper and 1 chem paper
