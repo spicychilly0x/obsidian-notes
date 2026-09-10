@@ -1,7 +1,7 @@
 **Master Quote Bank for** **Margarine and the Syrian Refugee Project** **(With Context)**
 
+marginalization
 
-socioeconomic disparity
 **1. Juxtaposition / Direct Contrast**
 
 - **Quote 1:** `"The furthest I have been to is Bangkok, but she's been to Syria and Europe."`
