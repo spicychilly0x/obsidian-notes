@@ -31,7 +31,7 @@
 - **Plant Cells**:
     - **In Hypotonic**: Vacuole enlarges, pushing contents against the wall. The cell becomes **turgid**. The strong, relatively inelastic **cell wall** exerts **turgor pressure** to prevent bursting.
     - **In Hypertonic**: Vacuole shrinks and the cytoplasm/cell membrane pull away from the cell wall, a process called **plasmolysis**.
-
+![[Pasted image 20260911232721.png]]
 **4. Facilitated Diffusion**
 
 - **Definition**: Passive transport of molecules/ions across a membrane assisted by specific **protein channels or carriers**.
