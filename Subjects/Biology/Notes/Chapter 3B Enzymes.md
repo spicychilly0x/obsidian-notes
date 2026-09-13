@@ -22,7 +22,7 @@
     - Allows the active site to fit more snugly around the substrate for catalysis.
 
 **3. Factors Affecting Enzyme Activity**
-
+![[Pasted image 20260913235407.png]]
 - **Temperature**:
     - **Low Temperature**: Enzymes are **inactivated**; kinetic energy is too low for frequent collisions.
     - **Increasing Temperature**: Rate doubles for every 10∘C rise as kinetic energy increases, leading to more **effective collisions**.
@@ -48,7 +48,7 @@
     - **Structure**: No resemblance to substrate.
     - **Action**: Binds to a **region other than the active site**, changing the enzyme’s overall 3D shape (conformation).
     - **Key Relationship**: Cannot be overcome by more substrate; the **maximum rate of reaction is permanently lowered**.
-
+![[Pasted image 20260913235450.png]]
 **5. Classification & Applications**
 
 - **Major Classes**:

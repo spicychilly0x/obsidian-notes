@@ -31,16 +31,17 @@
 - **Composition**: Carbon, Hydrogen, Oxygen in a **1:2:1 ratio** (Cn​H2n​On​).
 - **Groups**:
     - **Monosaccharides (Single sugars)**: Glucose, fructose, galactose.
-    - **Disaccharides (Double sugars)**: Maltose, lactose, **sucrose**.
+    - **Disaccharides (Double sugars)**: Maltose, lactose, **sucrose**. (glucose+ glucose, glucose+ galactose, glucose+ fructose respectively)
     - **Polysaccharides (Complex)**: Many monosaccharides linked by **glycosidic bonds**.
 - **Key Polysaccharides to Memorize**:
     - **Starch**: Long glucose chains (few branches); energy storage in **plants**.
     - **Glycogen**: Highly branched glucose polymer; storage in **animals** (liver/muscles).
     - **Cellulose**: Straight glucose chains; structural role in **plant cell walls** (indigestible fibre for mammals).
+    - chitin: for exoskeletons (glucose and amino acids)
 - **Functions**: Energy source, cell walls, DNA/RNA component, lubricants (mucus), nectar.
 
 **5. Lipids (Fats)**
-
+![[Pasted image 20260913234357.png]]
 - **Composition**: C,H,O (much less O in proportion to H than carbs).
 - **Structure**: 1 **Glycerol** + 3 **Fatty Acids** joined by **ester linkages**.
 - **Characteristics**: Hydrophobic (insoluble in water); non-polar covalent bonds.
@@ -52,21 +53,23 @@
 - **Composition**: C,H,O,N (sometimes Sulphur).
 - **Structure**: Polymers of **amino acids** (20 types) linked by strong **peptide bonds** formed via condensation.
 - **Organization Levels**:
-    - **Primary**: Linear sequence/strand of amino acids.
+    - **Primary**: Linear sequence/strand of amino acids (each individual bond is a peptide bond).
     - **Secondary**: Alpha helix or beta-pleated sheets; stabilized by **hydrogen bonds**.
     - **Tertiary**: Superimposed folding into a 3D globular shape.
     - **Quaternary**: Multiple polypeptide chains linked together (e.g., **hemoglobin**).
 - **Denaturation**: Loss of 3D shape and function due to breaking of weak bonds by **heat, acids, or alkalis**.
 - **Functions**: Growth and repair (protoplasm), enzymes, hormones, antibodies, fluid/pH balance.
 - **Deficiency**: **Kwashiorkor** (swollen stomach, scaly skin).
+- Cells: they need to be broken down into amino acids before entering cells as it cannot diffuse through cell surface membrane, to be linked up again to be a protein
+![[Pasted image 20260913234717.png]]
 
 **7. Summary of Food Tests (Crucial for Exams)**
 
-|Nutrient|Test|Reagent|Positive Observation|
-|---|---|---|---|
-|**Starch**|Iodine Test|Iodine solution|**Blue-black** coloration.|
-|**Reducing Sugars***|Benedict’s Test|Benedict’s solution + boil|**Brick-red precipitate**.|
-|**Fats**|Ethanol Emulsion|Ethanol + Water|**Cloudy white emulsion**.|
-|**Proteins**|Biuret Test|NaOH + CuSO4​|**Violet** solution.|
+| Nutrient             | Test             | Reagent                    | Positive Observation       | Negative     |
+| -------------------- | ---------------- | -------------------------- | -------------------------- | ------------ |
+| **Starch**           | Iodine Test      | Iodine solution            | **Blue-black** coloration. | Yellow-Brown |
+| **Reducing Sugars*** | Benedict’s Test  | Benedict’s solution + boil | **Brick-red precipitate**. | Light-blue   |
+| **Fats**             | Ethanol Emulsion | Ethanol + Water            | **Cloudy white emulsion**. | clear        |
+| **Proteins**         | Biuret Test      | NaOH + CuSO4​              | **Violet** solution.       | light blue   |
 
 _*Note: Sucrose is a_ **non-reducing sugar**_. It gives a negative Benedict's result unless first hydrolyzed with acid__._
