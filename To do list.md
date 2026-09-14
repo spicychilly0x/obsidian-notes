@@ -1,5 +1,7 @@
 
-1. do chinese papers from sch
-2. study bio
-3. continue 1 phys paper and 1 chem paper
+1. study bio
+2. chem and physics
+3. cmath study
+4. larts redo notes
+5. chinese compo and letter prep
 

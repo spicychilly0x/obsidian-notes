@@ -1,4 +1,4 @@
-
+![[Pasted image 20260915001221.png]]
 **1. Core Digestive Processes**
 
 - **Ingestion**: Taking food into the body.
@@ -20,23 +20,25 @@
 - **Muscle Layers**: **Circular muscles** (inside) and **longitudinal muscles** (outside).
 - **Antagonistic Action**:
     - **To push food forward**: Circular muscles contract, longitudinal muscles relax → gut wall constricts (narrower and longer).
+    ![[Pasted image 20260915001356.png]]
     - **To allow food entry**: Circular muscles relax, longitudinal muscles contract → gut wall dilates (wider and shorter).
+    ![[Pasted image 20260915001416.png]]
 
 **4. Site-Specific Digestion Summary**
 
-|Organ|Secretion|Enzymes/Components|Action|
-|---|---|---|---|
-|**Mouth**|Saliva (pH ~7)|**Salivary Amylase**|Starch → **Maltose**.|
-|**Stomach**|Gastric Juice (pH ~2)|**HCl**|Stops amylase; kills bacteria; activates pepsin/rennin.|
-|||**Pepsin**|Proteins → **Polypeptides**.|
-|||**Rennin**|Soluble caseinogen → **Insoluble casein** (curdles milk).|
-|**Small Intestine**|**Bile** (No enzymes)|Bile salts|**Emulsifies fats** (physical breakdown into droplets).|
-|(Duodenum)|Pancreatic Juice|**Amylase**|Starch → Maltose.|
-|||**Trypsin**|Proteins → Polypeptides.|
-|||**Lipase**|Fats → **Fatty acids + Glycerol**.|
-|(Ileum)|Intestinal Juice|**Enterokinase**|Activates trypsinogen.|
-|||**Disaccharidases***|Disaccharides → Monosaccharides.|
-|||**Erepsin**|Polypeptides → **Amino acids**.|
+| Organ               | Secretion             | Enzymes/Components   | Action                                                    |
+| ------------------- | --------------------- | -------------------- | --------------------------------------------------------- |
+| **Mouth**           | Saliva (pH ~7)        | **Salivary Amylase** | Starch → **Maltose**.                                     |
+| **Stomach**         | Gastric Juice (pH ~2) | **HCl**              | Stops amylase; kills bacteria; activates pepsin/rennin.   |
+|                     |                       | **Pepsin**           | Proteins → **Polypeptides**.                              |
+|                     |                       | **Rennin**           | Soluble caseinogen → **Insoluble casein** (curdles milk). |
+| **Small Intestine** | **Bile** (No enzymes) | Bile salts           | **Emulsifies fats** (physical breakdown into droplets).   |
+| (Duodenum)          | Pancreatic Juice      | **Amylase**          | Starch → Maltose.                                         |
+|                     |                       | **Trypsin**          | Proteins → Polypeptides.                                  |
+|                     |                       | **Lipase**           | Fats → **Fatty acids + Glycerol**.                        |
+| (Ileum)             | Intestinal Juice      | **Enterokinase**     | Activates trypsinogen.                                    |
+|                     |                       | **Disaccharidases*** | Disaccharides → Monosaccharides.                          |
+|                     |                       | **Erepsin**          | Polypeptides → **Amino acids**.                           |
 
 _*Maltase_ → _Glucose; Lactase_ → _Glucose + Galactose; Sucrase_ → _Glucose + Fructose__._
 
@@ -47,10 +49,11 @@ _*Maltase_ → _Glucose; Lactase_ → _Glucose + Galactose; Sucrase_ → _Glucos
 - **Efficiency**:
     - **One-cell thick epithelium**: Short diffusion pathway.
     - **Capillary network**: Rapidly carries away sugars/amino acids to maintain concentration gradient.
-    - **Lacteals**: Absorbs fatty acids and glycerol.
-
+    - **Lacteals**: Absorbs fatty acids and glycerol to send to the lymphatic system
+![[Pasted image 20260915002200.png]]
 **6. Transport and the Liver**
-
+![[Pasted image 20260915002530.png]]
+![[Pasted image 20260915002614.png]]
 - **Hepatic Portal Vein**: Transports nutrient-rich, deoxygenated blood from the ileum to the liver.
 - **Liver Functions (Must Memorize)**:
     1. **Glucose Regulation**: **Insulin** stimulates conversion of glucose to **glycogen** (storage); **Glucagon** converts it back when blood sugar is low.
@@ -59,7 +62,7 @@ _*Maltase_ → _Glucose; Lactase_ → _Glucose + Galactose; Sucrase_ → _Glucos
     4. **Protein Synthesis**: Makes blood proteins like **fibrinogen**.
     5. **Detoxification**: Converts harmful substances (e.g., alcohol) into harmless ones.
     6. **Iron Storage**: Stores iron from destroyed red blood cells.
-
+![[Pasted image 20260915002722.png]]
 **7. Large Intestine and Fibre**
 
 - **Function**: Absorbs water and mineral salts from undigested material.
