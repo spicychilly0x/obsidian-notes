@@ -3,7 +3,7 @@
 **1. Density (**ρ**)**
 
 - **Definition:** Mass per unit volume.
-- **Formula:** ρ=Vm​, where m is mass and V is volume.
+- **Formula:** <mark style="background: #FFF3A3A6;">ρ=m/V</mark>​, where m is mass and V is volume.
 - **Units:** SI unit is kg/m3; common unit is g/cm3.
 - **Floating vs. Sinking:** Objects with a lower density than the liquid will float; those with a higher density will sink.
 - **Key Relationships:**

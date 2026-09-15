@@ -48,7 +48,6 @@
     1. $v=u+at$
     2. $s=ut+\frac{1}{2}at^2$
     3. $v^2−u^2=2as$
-    4. $s=\frac{1}{2}​(u+v)t$
 - s **(Displacement):** The shortest distance between the starting and ending points. In vertical motion problems, it is often used to represent the **height**.
 - u **(Initial Velocity):** The **starting velocity** of the object at the beginning of the time interval.
 - v **(Final Velocity):** The **velocity achieved** by the object at the end of the time interval.

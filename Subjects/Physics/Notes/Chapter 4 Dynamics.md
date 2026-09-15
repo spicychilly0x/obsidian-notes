@@ -44,11 +44,11 @@
     4. **Terminal Velocity 2:** Speed decreases until drag again equals weight at a lower, safer velocity.
 
 **5. Problem-Solving & Formulas**
-
+[[Physics formulas]]
 - **Pulleys:** Apply F=ma to each mass individually to find system acceleration and string tension.
-- **Inclined Planes:** The normal reaction (N) is usually **not** equal to weight (W); it acts perpendicular to the slope (N=Wcosθ).
+- **Inclined Planes:** The normal reaction (N) is usually **not** equal to weight (W); it acts perpendicular to the slope (<mark style="background: #FFF3A3A6;">N=Wcosθ</mark>). 
 - **Lift (Elevator) Problems:**
-    - **Uniform Speed:** Tension equals weight (T=mg).
-    - **Accelerating Up:** T=m(g+a).
-    - **Accelerating Down:** T=m(g−a).
+    - **Uniform Speed:** Tension equals weight (<mark style="background: #FFF3A3A6;">T=mg</mark>).
+    - **Accelerating Up:** <mark style="background: #FFF3A3A6;">T=m(g+a)</mark>.
+    - **Accelerating Down:** <mark style="background: #FFF3A3A6;">T=m(g−a)</mark>.
 - **Connected Masses:** Treat the system as a "combined body" (macro) to find acceleration, then use individual "micro" FBDs to find internal forces (tensions).
