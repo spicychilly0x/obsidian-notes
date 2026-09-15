@@ -1,132 +1,141 @@
-**Master Quote Bank for** **Margarine and the Syrian Refugee Project** **(With Context)**
-
-
-socioeconomic disparity
-**1. Juxtaposition / Direct Contrast**
-
-- **Quote 1:** `"The furthest I have been to is Bangkok, but she's been to Syria and Europe."`
-    - **Context:** The narrator reflecting on the vast difference in travel experiences between herself and Jo as they discuss topics for their group research project.
-    - **Theme Link:** Directly contrasts the narrator’s modest heartland holiday range against Marjorie’s elite global travel, showing how socio-economic status creates vastly different life experiences.
-- **Quote 2:** `"Do you know how many options you have that we don't?"`
-    - **Context:** Nabilah confronting Marjorie in the canteen during recess after Marjorie announces she is leaving Singapore for an overseas boarding school.
-    - **Theme Link:** Juxtaposes Nabilah’s limited prospects against Marjorie’s wealth-driven choices, exposing how economic disparity grants unequal freedom and mobility.
+# **Master Literary Device Arsenal for** **Margarine and the Syrian Refugee Project**
 
 ---
 
-**2. Irony (Situational & Character Irony)**
+### **Master Theme:**
 
-- **Quote 1:** `"We stayed at the Four Seasons in Damascus... I guess your cousin wasn't staying there too?"`
-    - **Context:** Jo casually recounting her family's luxury holiday to Syria after Nabilah mentioned her cousin studied at a madrasah there.
-    - **Theme Link (Situational Irony):** Marjorie visits war-prone Syria as a luxury tourist before the war, yet her tone-deaf question reveals how extreme wealth insulates her from understanding actual hardship.
-- **Quote 2:** `"I thought you'd be able to step outside yourself and empathise with others—"`
-    - **Context:** Marjorie lecturing Nabilah in the canteen, accusing her of lacking empathy for Syrian refugees during their heated final argument.
-    - **Theme Link (Character Irony):** Marjorie lectures Nabilah on lacking empathy for distant refugees, yet fails to see her own condescending lack of empathy toward Nabilah’s local economic realities.
+**Socioeconomic Status (SES) Disparity and Class Division** (_The unbridgeable chasm between the upper-class elite and middle-class heartland Singaporeans, exploring how wealth privilege, unconscious insularity, and defensive class stereotypes prevent genuine empathy and integration_).
 
 ---
 
-**3. Metaphor**
-
-- **Quote 1:** `"Oei, Margarine! Why, your mother don't like kaya issit?"`
-    - **Context:** A male classmate shouting a derogatory nickname at Marjorie on her very first day after transferring to Bukit Katak Secondary School.
-    - **Theme Link:** Turning "Marjorie" into "Margarine" acts as a food metaphor—framing her as an artificial, foreign import that does not mix with local, heartland `"kaya"` culture, symbolising immediate class rejection.
-- **Quote 2:** `"Very soon, it too disappeared, drowned out by the heavy luxury of the estate."`
-    - **Context:** The narrator looking back from Jo's family car as they leave her landed mansion after their first group study session.
-    - **Theme Link:** Uses the sensory metaphor of being `"drowned out"` to convey how suffocating opulence smothers human connection, isolating upper-class residents from the wider community.
+# **10 Literary Device Categories (2 PEEL Points + Supporting Quotes Each)**
 
 ---
 
-**4. Personification**
+### **1. Setting & Architectural Contrast (Landed Mansion vs. HDB Flat)**
 
-- **Quote 1:** `"Jo shrank to a thin sliver as her three-storeyed mansion loomed larger and larger and enveloped her."`
-    - **Context:** The narrator observing Jo standing in her driveway as her family driver takes the narrator and Nabilah home.
-    - **Theme Link:** Personifies the mansion as a menacing entity (`"loomed"`, `"enveloped"`), showing how immense material wealth consumes Jo’s identity and isolates her from her peers.
-- **Quote 2:** `"The embarrassed clot of noodles lay helplessly on the ground."`
-    - **Context:** A younger student accidentally dropping his bowl of food during the tense argument between Nabilah and Marjorie in the canteen.
-    - **Theme Link:** Personifies the spilled food during the canteen confrontation (`"embarrassed"`, `"helplessly"`), mirroring the messy, uncomfortable exposure of class tension between the students.
-
----
-
-**5. Symbolism & Central Motif**
-
-- **Quote 1:** `"Big and shiny. Probably Mercedes or BMW, you know."`
-    - **Context:** The narrator describing Jo's family luxury car to Nabilah as they walk home from school on Jo's first day.
-    - **Theme Link:** High-end brand names symbolise elite privilege, capturing the alienated perspective of heartland students observing private wealth.
-- **Quote 2:** `"Every time I read about Syria in the news, I wonder about Margarine, and if she thinks about us."`
-    - **Context:** The final line of the short story, where the narrator reflects back on Jo long after she has left Singapore.
-    - **Theme Link:** Syria functions as a central motif for the unbridgeable distance between two worlds—both geopolitically and socio-economically.
+- **Point 1 (Upper SES Privilege):** The opulent, secluded estate setting highlights Jo's immense material wealth and her insulation from ordinary society.
+    - **Quote 1:** `"her three-storeyed mansion loomed larger and larger and enveloped her."`
+    - **Quote 2:** `"drowned out by the heavy luxury of the estate. We drove past many other formidable mansions, but saw hardly any humans"`
+    - **Analysis:** The personified, looming mansion and the phrase `"heavy luxury"` frame her living space as a fortress that physically and socially insulates the upper class from the rest of Singapore.
+- **Point 2 (Lower/Middle SES Heartland):** The bustling, modest HDB flat setting captures the communal, noisy reality of ordinary heartland life.
+    - **Quote 1:** `"Nabilah lived in a corner unit on the fourth floor of a HDB flat."`
+    - **Quote 2:** `"We were on the fourth floor, so we could hear everything that was happening downstairs. School buses dropping off students, kids playing football in the void deck, the uncle at the mama shop"`
+    - **Analysis:** Auditory and spatial descriptions of the HDB block portray a shared, unshielded environment, contrasting sharply against Jo's private, silent estate.
 
 ---
 
-**6. Visual & Tactile Imagery**
+### **2. Juxtaposition of Material Culture & Brand Diction**
 
-- **Quote 1:** `"Jo shrank to a thin sliver as her three-storeyed mansion loomed larger and larger and enveloped her."`
-    - **Context:** The narrator watching Jo disappear into her estate while riding in Jo's driver-driven car.
-    - **Theme Link:** Striking visual scale imagery contrasts human smallness against massive architecture, illustrating how economic privilege builds physical and emotional walls.
-- **Quote 2:** `"I felt self-conscious of my clunky shoes, with their thick, ungainly soles."`
-    - **Context:** The narrator comparing her standard heartland school shoes to Jo's imported branded sneakers on the first day of class.
-    - **Theme Link:** Tactile/visual imagery of school shoes emphasizes the narrator’s sudden insecurity when comparing her standard heartland uniform to Marjorie’s imported sneakers.
-
----
-
-**7. Rhetorical Question**
-
-- **Quote 1:** `"You know what it's like to be somebody other than a rich Chinese Singaporean?"`
-    - **Context:** Nabilah's angry, final confrontation with Marjorie in the canteen, questioning her ability to understand non-privileged life.
-    - **Theme Link:** Nabilah uses a sharp rhetorical question as a verbal weapon, confronting Marjorie with the reality of her demographic and socio-economic privilege.
-- **Quote 2:** `"Why should we care about her, if she doesn't care about us?"`
-    - **Context:** Nabilah refusing the narrator's suggestion to leave a note at Jo's house after Jo abruptly leaves the school and Singapore.
-    - **Theme Link:** Nabilah’s defensive rhetorical question reveals her entrenched class resentment, demonstrating why individual goodwill cannot overcome perceived societal rejection.
+- **Point 1 (Upper SES Consumption):** Exclusive foreign brands and luxury imports establish Jo's effortless access to financial privilege.
+    - **Quote 1:** `"It smelled very posh, not like any of the normal deodorant sprays we used, the ones that you would find in Watsons."`
+    - **Quote 2:** `"well-worn sneakers had the faded outline of an embroidered pattern... they didn't have any branches in Singapore."`
+    - **Analysis:** Diction comparing her exclusive foreign attire to common drugstore products (`"Watsons"`) highlights the subtle, pervasive markers that separate social classes in daily life.
+- **Point 2 (Middle SES Modesty):** Cheap, mass-market footwear and products emphasize the middle-class characters' self-consciousness regarding their lower status.
+    - **Quote 1:** `"I felt self-conscious of my clunky shoes, with their thick, ungainly soles."`
+    - **Quote 2:** `"Big and shiny. Probably Mercedes or BMW, you know. One of those."`
+    - **Analysis:** The narrator's awareness of her `"clunky shoes"` demonstrates how material disparities generate internalised insecurity and reinforce class awareness among heartland students.
 
 ---
 
-**8. Status-Laden Diction / Social Categorisation**
+### **3. Dialogue, Tone & Class-Bound Speech**
 
-- **Quote 1:** `"To you guys ministers probably make a lot of money, but you know, there are many other jobs that give you more money."`
-    - **Context:** Marjorie conversing with Nabilah and the narrator in her room during their first project meeting at her mansion.
-    - **Theme Link:** Marjorie’s casual use of `"you guys"` acts as a linguistic wedge, unconsciously categorising her groupmates as lower-class and reinforcing social hierarchy.
-- **Quote 2:** `"it's not my fault that you don't have what I do..."`
-    - **Context:** Marjorie responding defensively to Nabilah in the canteen when accused of having far more choices in life.
-    - **Theme Link:** Defensive diction (`"not my fault"`, `"what I do"`) highlights Marjorie’s tone-deaf stance on inherited privilege, showing how wealth blinds the upper class to systemic inequality.
-
----
-
-**9. Repetition / Anaphora**
-
-- **Quote 1:** `"the lucky people in the lucky countries with the fortuitous histories."`
-    - **Context:** The narrator's opening reflection on how peaceful, stable Singaporeans view distant global conflicts like the Syrian refugee crisis.
-    - **Theme Link:** Repeating `"lucky"` critiques national privilege on a macro level, contrasting Singapore's stability against the internal class divides tearing local friendships apart.
-- **Quote 2:** `"We were all sitting in her fancy car, with fancy leather seats and a fancy musky smell."`
-    - **Context:** The narrator describing her sensory experience while riding inside Jo's driver-driven car.
-    - **Theme Link:** Repeating `"fancy"` three times captures the narrator’s sensory overwhelm and alienation when experiencing upper-class luxury firsthand.
+- **Point 1 (Upper SES Insularity & Condescension):** Jo's matter-of-fact, nonchalant speech reveals the unexamined tone of upper-class privilege.
+    - **Quote 1:** `"To you guys ministers probably make a lot of money, but you know, there are many other jobs that give you more money."`
+    - **Quote 2:** `"Nabilah," she said, "it's not my fault that you don't have what I do... You have to stop grudging others for what they have and you don't."`
+    - **Analysis:** Her blunt phrasing (`"it's not my fault"`, `"To you guys"`) exposes how her wealthy upbringing leaves her blind to the systemic advantages she enjoys, making her sound condescending to her peers.
+- **Point 2 (Lower/Middle SES Resentment & Confrontation):** Nabilah's defensive, hostile dialogue weaponises class distinctions to attack Jo's background.
+    - **Quote 1:** `"That's where people like you live," Nabilah told Margarine. "They put them in a different GRC too."`
+    - **Quote 2:** `"You know what it's like to be somebody other than a rich Chinese Singaporean?"`
+    - **Analysis:** Confrontational rhetoric (`"people like you"`, `"rich Chinese Singaporean"`) shows how middle-class insecurity erupts into active resentment, shutting down meaningful friendship.
 
 ---
 
-**10. Tone (Condescending vs. Accusatory)**
+### **4. Naming Motif, Monikers & Title Symbolism ("Marjorie" / "Jo" / "Margarine")**
 
-- **Quote 1:** `"I thought you'd be able to step outside yourself and empathise with others—"`
-    - **Context:** Marjorie lecturing Nabilah during their canteen argument about refugee empathy.
-    - **Theme Link (Condescending Tone):** Marjorie assumes moral superiority, using humanitarian idealism to lecture Nabilah while ignoring local class struggles.
-- **Quote 2:** `"You know what it's like to be somebody other than a rich Chinese Singaporean?"`
-    - **Context:** Nabilah confronting Marjorie in the canteen right before Marjorie walks away for good.
-    - **Theme Link (Accusatory Tone):** Nabilah’s aggressive, confronting tone exposes deep-seated bitterness toward racial and financial privilege in Singapore.
-
----
-
-**11. Structural Framing / Circularity (Tie-Back)**
-
-- **Quote 1 (Opening):** `"Every time I read the news headlines nowadays about the Syrian refugees, I wonder about Marjorie."`
-    - **Context:** The first sentence of the story, setting up the retrospective narrative frame.
-- **Quote 2 (Ending):** `"Every time I read about Syria in the news, I wonder about Margarine, and if she thinks about us."`
-    - **Context:** The final sentence of the story, concluding the narrative frame years after the events occurred.
-    - **Theme Link:** The circular tie-back between the opening and ending lines reinforces that while the school project ended, the socio-economic rift and loss of friendship remain an unresolved memory.
+- **Point 1 (Upper SES Self-Designation):** The preferred nickname `"Jo"` represents her attempt to strip away her formal, elite background and fit in quietly.
+    - **Quote 1:** `"She says you can call her Jo"`
+    - **Quote 2:** `"Hey guys. Call me Jo."`
+    - **Analysis:** Shortening her name to `"Jo"` acts as a desire to blend in as an ordinary student, rejecting the high-class associations attached to her full name.
+- **Point 2 (Middle SES Distortion & Stereotyping):** The distortion into `"Margarine"` symbolises how the heartland students reduce her to a cheap, mockable caricature.
+    - **Quote 1:** `"Oei, Margarine! Why, your mother don't like kaya issit?"`
+    - **Quote 2:** `"It's okay if I call you Margarine? I think it's very cute. Your real name is too hard for me lah."`
+    - **Analysis:** Replacing her real name with a cheap butter substitute (`"Margarine"`) metaphorically reduces her presence to an awkward joke, reflecting how lower classes stereotype the rich as unnatural or out of place.
 
 ---
 
-**12. Alliteration & Sound Devices**
+### **5. Irony (Situational & Character Irony)**
 
-- **Quote 1:** `"the lucky people in the lucky countries with the fortuitous histories."`
-    - **Context:** The narrator reflecting in the opening paragraph on Singapore's geopolitical safety and stability.
-    - **Theme Link:** Liquid **'l'** alliteration (`"lucky... lucky"`) combined with fricative **'f'** sounds (`"fortuitous"`) creates a smooth, rhythmic cadence that highlights the effortless ease of Singaporean privilege.
-- **Quote 2:** `"Jo shrank to a thin sliver as her three-storeyed mansion loomed larger and larger and enveloped her."`
-    - **Context:** The narrator describing Jo standing in her driveway as her car pulls away.
-    - **Theme Link:** Sibilance of the **'s'** sound (`"shrank... thin sliver"`) and liquid **'l'** sound (`"loomed larger"`) create a hushed, shrinking effect that mirrors Jo being swallowed by her family's wealth.
+- **Point 1 (Upper SES Irony):** Jo displays global empathy for distant Syrian refugees while remaining oblivious to local SES inequality and her peers' feelings.
+    - **Quote 1:** `"You keep forgetting about the Syrian refugees, how little they have, and how lucky you are."`
+    - **Quote 2:** `"We stayed at the Four Seasons in Damascus... I guess your cousin wasn't staying there too?"`
+    - **Analysis:** Character irony—Jo lectures her classmates on empathy for war victims while casually bragging about luxury hotel stays (`"Four Seasons"`), highlighting her complete lack of local class awareness.
+- **Point 2 (Middle SES Irony):** Nabilah advocates for refugee charity but refuses to show basic tolerance or empathy toward her classmate.
+    - **Quote 1:** `"Why should we care about her... if she doesn't care about us?"`
+    - **Quote 2:** `"Aren't rich kids so annoying?"`
+    - **Analysis:** Situational irony—working on a human rights project fails to cultivate empathy in Nabilah, who remains trapped in her own anti-rich prejudice.
+
+---
+
+### **6. School Symbolism & Characterisation (Farquhar Girls' vs. Bukit Katak)**
+
+- **Point 1 (Elite School Prestige):** Farquhar Girls' School symbolises institutional privilege, academic superiority, and social prestige.
+    - **Quote 1:** `"Your new classmate is Mar-jerh-ri Mok who has just transferred here from Farquhar Girls' School."`
+    - **Quote 2:** `"I guess that's where people like you go to school," Nabilah said.`
+    - **Analysis:** The elite school name carries immediate socio-economic weight, causing her new classmates to view her as an alien presence before she even speaks.
+- **Point 2 (Neighbourhood Co-Ed School Reality):** Bukit Katak Secondary represents the average heartland institution whose students harbor deep class biases.
+    - **Quote 1:** `"show your new classmate that Bukit Katak Secondary is just as good as Farquhar Girls', okay?"`
+    - **Quote 2:** `"Rich kid. Why did she transfer to Bukit Katak?"`
+    - **Analysis:** The teacher's defensive remark (`"just as good"`) and Nabilah's immediate label (`"Rich kid"`) reveal the deep-seated institutional rivalry and class defensiveness felt by neighborhood school students.
+
+---
+
+### **7. First-Person Narrative Perspective & Mediator Focalisation**
+
+- **Point 1 (Initial Class Prejudice):** The narrator's early observations expose how middle-class Singaporeans instinctively judge wealthy individuals.
+    - **Quote 1:** `"I know you're looking," her slightly hostile smile seemed to say.`
+    - **Quote 2:** `"wore our school uniform better than us, I thought with envy and some resignation"`
+    - **Analysis:** First-person focalisation reveals her internal projection of hostility onto Jo, illustrating how class envy colors perception from the outset.
+- **Point 2 (Evolving Insight & Bridging the Chasm):** The narrator's shifting perspective shows that overcoming class division requires seeing past stereotypes.
+    - **Quote 1:** `"I told Nabilah that at the end of the day, Margarine was our friend."`
+    - **Quote 2:** `"every time I read about Syria in the news, I wonder about Margarine, and if she thinks about us."`
+    - **Analysis:** The narrator functions as a mediator who grows to see Jo as an individual rather than a class stereotype, though the final separation emphasizes how fragile such cross-class bonds are.
+
+---
+
+### **8. Symbolism of Food (Lemak Ayam vs. Luxury Hotel Dining)**
+
+- **Point 1 (Heartland Food as Communal Inclusion):** Traditional Malay cooking symbolises middle-class hospitality, warmth, and unpretentious generosity.
+    - **Quote 1:** `"Nabilah's house smelled of her mother's delicious lemak ayam cili padi."`
+    - **Quote 2:** `"Margarine had never had lemak ayam before, which pleased Auntie greatly. "Have more," she said"`
+    - **Analysis:** Nabilah's mother welcoming Jo with homemade curry symbolises the heartland's capacity for genuine warmth, bridging class lines through shared food.
+- **Point 2 (Elite Dining as Class Separation):** References to international luxury dining underscore Jo's vast distance from ordinary heartland experiences.
+    - **Quote 1:** `"We stayed at the Four Seasons in Damascus"`
+    - **Quote 2:** `"Why, your mother don't like kaya issit?"`
+    - **Analysis:** Luxury hotel dining serves as a symbol of upper-class mobility, contrasting against the simple, local staple foods (`"kaya"`) familiar to her classmates.
+
+---
+
+### **9. Microcosm & Metaphor of the Syrian Refugee Project**
+
+- **Point 1 (Macro Project as Mirror of Local Class Divide):** The Syrian project acts as an overarching metaphor for the irreconcilable class chasm within Singapore.
+    - **Quote 1:** `"Margarine belonged to a different world."`
+    - **Quote 2:** `"Regardless of race, language or religion. But what about money?"`
+    - **Analysis:** Modifying the national pledge (`"But what about money?"`) explicitly critiques Singaporean society, pointing out that class disparity remains the primary unaddressed fault line in a multiracial nation.
+- **Point 2 (School Setting as Failed Integration):** The group project demonstrates that shared tasks cannot dissolve deeply ingrained class stereotypes.
+    - **Quote 1:** `"After lunch, we sat in the living room cutting out newspaper headlines and pasting them on boards."`
+    - **Quote 2:** `"To think we spent so much time working on our project... I thought you'd be able to step outside yourself and empathise with others"`
+    - **Analysis:** The classroom project acts as a microcosm of broader society—despite physical proximity and shared work, economic barriers prevent true emotional connection.
+
+---
+
+### **10. Structural Climax & Final Ending (The Canteen Incident & Departure)**
+
+- **Point 1 (The Canteen Climax - Erupting Class Argument):** The public confrontation in the school canteen exposes the total breakdown of cross-class communication.
+    - **Quote 1:** `"Nabilah," she said, "it's not my fault that you don't have what I do... You have to stop grudging others for what they have and you don't."`
+    - **Quote 2:** `"You know what it's like to be somebody other than a rich Chinese Singaporean?"`
+    - **Analysis:** The narrative climax brings latent class resentment into the open, proving that neither side is willing to abandon their defensive stereotypes.
+- **Point 2 (The Symbolic Departure & Lack of Resolution):** Jo picking up the dropped noodle bowl before disappearing forever symbolises her quiet dignity and the permanent separation of the two worlds.
+    - **Quote 1:** `"Margarine picked up his bowl and the fishball. She didn't come to school the next day. We didn't hear from her again."`
+    - **Quote 2:** `"as Nabilah had said before, Margarine belonged to a different world."`
+    - **Analysis:** Jo's final compassionate gesture (cleaning up the mess) breaks her stereotype, yet her sudden departure leaves the class divide completely unresolved and permanent.
