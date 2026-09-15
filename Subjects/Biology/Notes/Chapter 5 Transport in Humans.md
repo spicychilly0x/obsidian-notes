@@ -29,7 +29,7 @@
     - **Atrioventricular (AV) Valves**: Tricuspid (right) and Bicuspid/Mitral (left). They close during ventricular contraction to prevent backflow into atria (**"Lub"** sound).
     - **Semilunar Valves**: Located at the start of the aorta and pulmonary artery. They close during ventricular relaxation to prevent backflow into ventricles (**"Dub"** sound).
 - **Coronary Arteries**: Small arteries emerging from the aorta that supply the heart muscle itself with nutrients and oxygen.
-
+![[Pasted image 20260916001604.png]]
 **4. The Cardiac Cycle**
 
 - **Definition**: Sequence of events in one heartbeat (approx. 0.8 seconds).

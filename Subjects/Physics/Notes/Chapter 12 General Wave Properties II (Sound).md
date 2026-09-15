@@ -67,10 +67,3 @@
     - _Example:_ A pulse lasting $0.50\text{ s}$ at a frequency of $3600\text{ Hz}$ contains $3600 \times 0.50 = 1800$ complete wavelengths.
 - **Consecutive Clapping Experiment:** If a person claps at the exact instant they hear an echo and repeats this $N$ times over a total time $t$ at a distance $d$ from a wall: $$\text{Speed of Sound } (v) = \frac{2 \times d \times N}{t}$$
 
-keep_pin Save to note
-
-copy_all
-
-thumb_up
-
-thumb_down
