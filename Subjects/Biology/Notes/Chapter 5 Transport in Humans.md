@@ -36,9 +36,10 @@
 - **Phases**:
     1. **Atrial and Ventricular Diastole**: All chambers relax and fill passively.
     2. **Atrial Systole**: Atria contract, adding the final 20% of blood to the ventricles.
-    3. **Ventricular Systole**: Ventricles contract; AV valves close ("Lub"); pressure opens semilunar valves; blood is forced into arteries.
+    3. **Ventricular Systole, atrial diastole**: Ventricles contract; AV valves close ("Lub"); pressure opens semilunar valves; blood is forced into arteries.
     4. **Ventricular Diastole**: Ventricles relax; semilunar valves close ("Dub") as arterial pressure exceeds ventricular pressure; AV valves reopen for refilling.
-
+![[Pasted image 20260916002234.png]]
+![[Pasted image 20260916002730.png]]
 **5. Control of Heart Rate**
 
 - **SA Node (Pacemaker)**: Located in the right atrium; initiates electrical signals for atrial contraction.
@@ -77,10 +78,10 @@
 
 - **Antigens**: Special proteins on RBC surfaces (A and B).
 - **Antibodies**: Natural proteins in plasma (a and b).
-- **Agglutination**: Dangerous clumping that occurs if recipient's antibodies match donor's antigens (e.g., Antibody a with Antigen A).
+- **Agglutination**: Dangerous coagulation/clumping that occurs if recipient's antibodies match donor's antigens (e.g., Antibody a with Antigen A).
 - **Universal Donor**: **Type O** (no antigens on RBCs).
 - **Universal Recipient**: **Type AB** (no antibodies in plasma).
-
+![[Pasted image 20260916003232.png]]
 **10. Lymphatic System**
 
 - **Functions**:
