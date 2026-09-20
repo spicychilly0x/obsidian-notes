@@ -1,9 +1,8 @@
 
-1. study bio
-2. chem and physics
-3. cmath study
-4. chinese compo and letter prep
-5. IS and Larts memorize
-6. cmath both papers
-7. amath paper 2 practice
+1. study bio +
+2. chem 
+3. chinese compo and letter prep 
+4. IS and Larts memorize
+5. cmath paper 2
+6. amath paper 2 practice
 
