@@ -65,3 +65,5 @@
     - **Dialysis Fluid**: Contains **essential salts and glucose** at the same concentration as healthy blood (prevents loss of these substances) but **contains no urea** (to maintain a steep concentration gradient for waste removal).
     - **Counter-current Flow**: Blood and dialysis fluid flow in **opposite directions** to maintain the concentration gradient for the entire length of the tubing.
 - **Fistula**: A surgical connection between an artery and a vein in the forearm. The increased pressure makes the vein stronger and larger, allowing for faster blood flow and more efficient filtration.
+![[Pasted image 20260922150357.png]]
+![[Pasted image 20260922150323.png]]
