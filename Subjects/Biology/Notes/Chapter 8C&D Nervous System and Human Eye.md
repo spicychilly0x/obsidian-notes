@@ -74,13 +74,16 @@
 - **Pupil Reflex (Antagonistic Muscles)**:
     - **Bright Light**: Circular muscles contract, radial muscles relax → Pupil **constricts** (smaller) to reduce light entry.
     - **Dim Light**: Circular muscles relax, radial muscles contract → Pupil **dilates** (larger) to increase light entry.
+    ![[Pasted image 20260922165136.png]]
 - **Accommodation (Focusing)**:
-    - **Distant Object**: Ciliary muscles **relax** → Suspensory ligaments become **taut** → Lens becomes **thinner/less convex** (increased focal length).
-    - **Near Object**: Ciliary muscles **contract** → Suspensory ligaments **slacken** → Lens becomes **thicker/more convex** (decreased focal length).
+    - **Distant Object**: Ciliary muscles **relax** → Suspensory ligaments become **taut** → Lens becomes **thinner/less convex** (increased focal length)
+    ![[Pasted image 20260922165325.png]]
+    - **Near Object**: Ciliary muscles **contract** → Suspensory ligaments **slacken** → Lens becomes **thicker/more convex** (decreased focal length)
+    ![[Pasted image 20260922165338.png]]
 - **Photoreceptors**:
     - **Rods**: For **dim light**; contain **visual purple (rhodopsin)**; detect black/white. Note: Rhodopsin bleaches in bright light and requires **Vitamin A** to reform (deficiency causes night-blindness).
-    - **Cones**: For **bright light/colors** (Red, Blue, Green); contain photopsin.
-
+    - **Cones**: For **bright light/colors** (Red, Blue, Green); contain photopsin. (big yellow ones in picture)
+![[Pasted image 20260922165449.png]]
 **8. Image Formation**
 
 - Light refraction occurs at the **cornea**, **aqueous humour**, **lens**, and **vitreous humour**.
