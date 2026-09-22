@@ -28,8 +28,7 @@
 
 **5. The Gas Laws**
 
-- **Ideal Gas Law:** pV=nRT.
-    - **Must-Memorize Units:** Pressure (P) in **Pascal**, Volume (V) in m3, Temperature (T) in **Kelvin**.
+
 - **Boyle’s Law (Constant** T**):** P1​V1​=P2​V2​. Pressure is inversely proportional to volume (P∝1/V).
 - **Gay-Lussac’s Law / Pressure Law (Constant** V**):** P1​/T1​=P2​/T2​. Pressure is directly proportional to absolute temperature (P∝T).
 - **Charles’ Law (Constant** P**):** V1​/T1​=V2​/T2​. Volume is directly proportional to absolute temperature (V∝T).
