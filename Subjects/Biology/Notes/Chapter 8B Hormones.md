@@ -3,11 +3,9 @@
 
 - **Hormone**: A chemical substance produced in minute quantities by an endocrine gland, transported by the blood to one or more specific target organs, where it alters their activity.
 - **Lifecycle**: After performing its function, a hormone is **destroyed by the liver**.
-- **Endocrine Glands (Ductless)**: Secrete hormones **directly into the bloodstream** (e.g., Pituitary, Adrenal, Pancreas).
-- **Exocrine Glands**: Secrete products (e.g., sweat, saliva, digestive juices) through **ducts** to the external environment or organ cavities.
 
 **2. Key Glands and Their Functions**
-
+![[Pasted image 20260922154314.png]]
 - **Pituitary Gland ("Master Gland")**: Secretes several hormones that control other endocrine glands; also secretes **Antidiuretic Hormone (ADH)**.
 - **Hypothalamus**: Regulates the secretion of pituitary hormones and coordinates the adrenal response to stress.
 - **Thyroid Gland**: Secretes **thyroxine**, which controls metabolic rate and physical development.

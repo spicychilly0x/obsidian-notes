@@ -42,7 +42,7 @@
     - **Solution**: Produce lots of dilute urine; use **active transport** to take in salt at the gills.
 
 **5. Structure of Mammalian Skin**
-
+![[Pasted image 20260922153344.png]]
 - **Epidermis**:
     - **Outer Cornified Layer**: Dead, dry cells; contains **keratin**; water-resistant; prevents mechanical injury and microbe entry.
     - **Granular Layer**: Living cells moving upward to replace the cornified layer.
@@ -54,7 +54,7 @@
     - **Adipose Tissue**: Sub-cutaneous fat; provides insulation to prevent heat loss.
 
 **6. Thermoregulation (Temperature Control)**
-
+![[Pasted image 20260922153609.png]]
 - **Heat Gain Sources**: Respiration (liver/muscles), exercise, sun radiation, warm air, and **shivering**.
 - **Heat Loss Mechanisms**: **Radiation**, **Convection**, **Conduction**, and **Evaporation** of sweat (removes latent heat).
 - **Response to a Hot Day (Temperature Rise)**:
@@ -64,8 +64,9 @@
 - **Response to a Cold Day (Temperature Fall)**:
     - **Vasoconstriction**: Arterioles in skin **constrict**; **shunt vessels dilate**; less blood flows to skin capillaries to reduce heat loss.
     - **Sweating**: Sweat glands less active.
-    - **Muscles**: **Hair erector muscles contract** (hairs stand up to trap an insulating layer of air); **shivering** (reflex skeletal muscle contraction to generate heat); metabolic rate increases.
-
+    - **Muscles**: **Hair erector muscles contract** (hairs stand up to trap an insulating layer of air); 
+    - **shivering** (reflex skeletal muscle contraction to generate heat); metabolic rate increases.
+![[Pasted image 20260922153915.png]]
 **7. Heat Source Terminology**
 
 - **Ectotherm**: Derives body temperature from **external** heat sources.
