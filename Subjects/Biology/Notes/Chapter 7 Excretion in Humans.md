@@ -6,7 +6,7 @@
 - **Importance**: Prevents the accumulation of wastes that may become toxic to the body.
 
 **2. The Mammalian Urinary System**
-
+![[Pasted image 20260922122521.png]]
 - **Renal Artery**: Supplies the kidney with oxygenated blood containing nitrogenous wastes.
 - **Renal Vein**: Drains filtered (clean) blood from the kidney.
 - **Kidney**: Filters blood to form urine.
@@ -15,15 +15,15 @@
 - **Urethra**: The tube through which urine is expelled from the body.
 
 **3. Kidney Anatomy**
-
+![[Pasted image 20260922122834.png]]
 - **Renal Cortex**: The outer region of the kidney.
 - **Renal Medulla**: The inner region, containing renal pyramids.
 - **Renal Pelvis**: The central cavity where urine collects before entering the ureter.
 - **Nephron**: The functional unit of the kidney, spanning the cortex and medulla.
-
+![[Pasted image 20260922123013.png]]
 **4. Structure and Function of the Nephron**
-
-- **Malpighian (Renal) Corpuscle**: Site of **ultrafiltration**; consists of the **Glomerulus** (capillary knot) and the **Bowman’s Capsule** (renal capsule).
+![[Pasted image 20260922123441.png]]
+- **Malpighian (Renal) Corpuscle**: Site of **ultrafiltration**; consists of the <mark style="background: #FFF3A3A6;">**Glomerulus**</mark> (capillary knot) and the <mark style="background: #FFF3A3A6;">**Bowman’s Capsule**</mark> (renal capsule).
 - **Proximal Convoluted Tubule (PCT)**: Primary site for **selective reabsorption**.
 - **Loop of Henle**: A U-shaped portion that extends into the medulla; involved in water reabsorption.
 - **Distal Convoluted Tubule (DCT)**: Involved in the reabsorption of specific salts (e.g., Na+) and water.
