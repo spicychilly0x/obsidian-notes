@@ -39,6 +39,7 @@
     - **Dorsal Root**: Joins the back of the cord; contains **sensory neurones** only. Cell bodies are in the **dorsal root ganglion**.
     - **Ventral Root**: Joins the front of the cord; contains **motor neurones** only.
 ![[Pasted image 20260922161706.png]]
+![[Pasted image 20260922162300.png]]
 **5. Actions and Reflexes**
 
 - **Voluntary Action**: Controlled consciously by the will; involves the brain (e.g., throwing a ball).
@@ -48,6 +49,9 @@
     - **Cranial Reflex**: Controlled by the brain (e.g., pupil reflex).
 - **Reflex Arc Pathway (Memorize)**: Receptor → Sensory neurone → Relay neurone (in CNS) → Motor neurone → Effector.
 ![[Pasted image 20260922161909.png]]
+
+
+
 **6. Structure of the Human Eye**
 
 - **Outer Layer**:
@@ -64,7 +68,7 @@
 - **Other Components**:
     - **Lens**: Biconvex; changes shape to focus light.
     - **Humours**: Aqueous (front) and Vitreous (back) humours maintain eyeball firmness and refract light.
-
+![[Pasted image 20260922162434.png]]
 **7. Eye Functions and Reflexes**
 
 - **Pupil Reflex (Antagonistic Muscles)**:
