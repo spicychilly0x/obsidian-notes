@@ -27,7 +27,7 @@
     3. In the liver: Some lactic acid is oxidized for energy; that energy converts the rest back into **glucose** (later stored as **glycogen** in muscles).
 
 **4. Anatomy of the Respiratory System**
-
+![[Pasted image 20260922113924.png]]
 - **Air Path (Memorize Order)**: External nostril → Nasal passages → Pharynx → Larynx → Trachea → Bronchi → Bronchioles → Alveoli (air sacs).
 - **Conditioning of Air**: Before reaching lungs, air is:
     - **Warmed** to body temperature.
