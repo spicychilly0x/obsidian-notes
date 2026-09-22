@@ -3,11 +3,12 @@
 
 - **Primary Function**: Coordinates and regulates bodily functions through sensory input, information processing, and motor output.
 - **Central Nervous System (CNS)**: Comprised of the **brain** and **spinal cord**.
+![[Pasted image 20260922160306.png]]
 - **Peripheral Nervous System (PNS)**: Comprised of **cranial nerves** (from brain) and **spinal nerves** (from spinal cord).
 - **Information Flow**: Receptors (gather info) → Nerve impulses (electrical signals) → CNS (processing) → Effectors (intended action carried out by muscles or glands).
 
 **2. Neurone Structure and Types**
-
+![[Pasted image 20260922160323.png]]
 - **Structure of a Motor Neurone**:
     - **Cell Body**: Irregular shape; contains nucleus and cytoplasm.
     - **Dendrons/Dendrites**: Fibres that transmit impulses **towards** the cell body.
@@ -16,16 +17,19 @@
     - **Nodes of Ranvier**: Gaps in myelin; allow impulses to "jump," speeding up transmission.
     - **Motor End Plate**: Junction between the neurone and muscle fibre.
 - **Three Main Neurone Types**:
-    1. **Sensory**: Transmits impulses from sense organs/receptors to the CNS.
+    1. **Sensory**: Transmits impulses from sense organs/receptors to the CNS
+    ![[Pasted image 20260922161229.png]]
     2. **Relay (Intermediate)**: Integrates info within the CNS; connects sensory and motor neurones.
+    ![[Pasted image 20260922161240.png]]
     3. **Motor**: Transmits impulses from the CNS to effectors.
+    ![[Pasted image 20260922161306.png]]
 
 **3. Synaptic Transmission**
 
 - **Synapse**: A junction between two neurones or a neurone and an effector.
 - **Mechanism**: Chemical transmission via **neurotransmitters**.
 - **Process**: Nerve impulse reaches axon terminal → Presynaptic cell secretes neurotransmitter → Chemical crosses the **synaptic cleft** → Binds to receptors on the postsynaptic (receiving) cell.
-
+![[Pasted image 20260922161537.png]]
 **4. Anatomy of the CNS**
 
 - **Grey vs. White Matter**:
@@ -34,7 +38,7 @@
 - **Spinal Cord Roots**:
     - **Dorsal Root**: Joins the back of the cord; contains **sensory neurones** only. Cell bodies are in the **dorsal root ganglion**.
     - **Ventral Root**: Joins the front of the cord; contains **motor neurones** only.
-
+![[Pasted image 20260922161706.png]]
 **5. Actions and Reflexes**
 
 - **Voluntary Action**: Controlled consciously by the will; involves the brain (e.g., throwing a ball).
@@ -43,7 +47,7 @@
     - **Spinal Reflex**: Controlled by the spinal cord.
     - **Cranial Reflex**: Controlled by the brain (e.g., pupil reflex).
 - **Reflex Arc Pathway (Memorize)**: Receptor → Sensory neurone → Relay neurone (in CNS) → Motor neurone → Effector.
-
+![[Pasted image 20260922161909.png]]
 **6. Structure of the Human Eye**
 
 - **Outer Layer**:
