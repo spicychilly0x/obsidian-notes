@@ -33,6 +33,7 @@ $$
 - **Specific Latent Heat (**l**):** Energy transferred **per unit mass** to change the state at a constant temperature.
     - **Fusion (**l**):** Solid ↔ Liquid. **Formula:** <mark style="background: #FFF3A3A6;">L​=ml</mark> (melting or solidification)
     - **Vaporization (**l​**):** Liquid ↔ Gas. **Formula:** <mark style="background: #FFF3A3A6;">L​=ml</mark>​
+    - better equation is Q=ml
 - **Molecular Behavior:** During boiling/melting, energy is used to **increase the average separation** of molecules (breaking/weakening bonds), not their speed.
 
 **4. Boiling vs. Evaporation**
