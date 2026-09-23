@@ -39,11 +39,14 @@
     - Molecules per unit volume increase.
     - **Frequency of collisions** with walls increases.
     - Average force per unit area (pressure) increases.
+    ![[Pasted image 20260923161217.png]]
 - **Why Temperature Increase** → **Pressure Increase (at constant** V**):**
     - Average kinetic energy and speed of molecules increase.
     - Molecules collide **more frequently and vigorously** with walls.
     - Average force on walls increases, raising pressure.
+    ![[Pasted image 20260923161235.png]]
 - **Why Temperature Increase** → **Volume Increase (at constant** P**):**
     - Speed and collision frequency increase, initially raising internal pressure.
     - This creates a **net outward force** (e.g., on a piston), causing expansion.
     - Expansion continues until internal pressure again equals external/atmospheric pressure.
+    ![[Pasted image 20260923161255.png]]
