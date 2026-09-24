@@ -1,6 +1,6 @@
 **Core Master Quotes to Memorise (Reused for Maximum Efficiency):**
 
-longing for youth, ageing, passing of time
+longing for youth, loss of innocence, passing of time,
 
 1. **Quote 1:** `"You must forgive me. Don't look so surprised,"`
 2. **Quote 2:** `"You would rather run than walk, rather climb than run"`
