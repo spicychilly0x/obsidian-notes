@@ -10,7 +10,7 @@
 - **Magnification Formulas**:
     - **Total Magnification** = Objective lens × Ocular lens.
     - **Linear Magnification** = Size of Image/ Real Size of Object​.
-    - **Crucial**: Always convert image and object measurements to the **same unit** before calculating.
+    - **Crucial**: Always convert image and object measurements to the **same unit** before calculating.2
 - **Units to Memorize**:
     - 1 mm=100 μm (micrometers).
     - 1 μm=100 nm (nanometers).
