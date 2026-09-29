@@ -45,6 +45,7 @@
 |**Thoracic Volume**|**Increases**.|**Decreases**.|
 |**Air Pressure**|Inside lungs **decreases** (below atmospheric).|Inside lungs **increases** (above atmospheric).|
 |**Air Flow**|Rushes **into** the lungs.|Forced **out** of the lungs.|
+intercostals antagonistic muscles.
 
 **6. Gaseous Exchange in Alveoli**
 
