@@ -3,3 +3,5 @@ types of conflict:
 - classical
 - societal
 - internal
+- environmental
+- cultural
