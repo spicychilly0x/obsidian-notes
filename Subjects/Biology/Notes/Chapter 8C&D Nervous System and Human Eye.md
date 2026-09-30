@@ -30,6 +30,7 @@
 - **Mechanism**: Chemical transmission via **neurotransmitters**.
 - **Process**: Nerve impulse reaches axon terminal → Presynaptic cell secretes neurotransmitter → Chemical crosses the **synaptic cleft** → Binds to receptors on the postsynaptic (receiving) cell.
 ![[Pasted image 20260922161537.png]]
+
 **4. Anatomy of the CNS**
 
 - **Grey vs. White Matter**:
