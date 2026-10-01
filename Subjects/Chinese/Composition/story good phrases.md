@@ -104,20 +104,20 @@
 
 ## 4. 其他常见动作
 
-|词语 / 成语|英文意思|适用情境|
-|---|---|---|
-|猛然转身|Turn around abruptly|突然回头|
-|猛地一惊|Start suddenly|突然受到惊吓|
-|不假思索|Without hesitation|立即行动|
-|毫不犹豫|Without hesitation|果断行动|
-|犹豫不决|Hesitate|难以作出决定|
-|迟疑片刻|Pause hesitantly|短暂犹豫|
-|咬紧牙关|Grit one's teeth|忍耐、坚持|
-|深吸一口气|Take a deep breath|平复情绪|
-|长吁一口气|Heave a sigh|释然或疲惫|
-|摇摇欲坠|On the verge of falling|即将倒下|
-|俯身拾起|Bend down to pick up|捡起物品|
-|欣然接受|Accept gladly|愉快地接受|
+| 词语 / 成语 | 英文意思                    | 适用情境   |
+| ------- | ----------------------- | ------ |
+| 猛然转身    | Turn around abruptly    | 突然回头   |
+| 猛地一惊    | Start suddenly          | 突然受到惊吓 |
+| 不假思索    | Without hesitation      | 立即行动   |
+| 毫不犹豫    | Without hesitation      | 果断行动   |
+| 深吸一口气   | Take a deep breath      | 平复情绪   |
+| 犹豫不决    | Hesitate                | 难以作出决定 |
+| 迟疑片刻    | Pause hesitantly        | 短暂犹豫   |
+| 咬紧牙关    | Grit one's teeth        | 忍耐、坚持  |
+| 长吁一口气   | Heave a sigh            | 释然或疲惫  |
+| 摇摇欲坠    | On the verge of falling | 即将倒下   |
+| 俯身拾起    | Bend down to pick up    | 捡起物品   |
+| 欣然接受    | Accept gladly           | 愉快地接受  |
 
 # 二、说话描写（语气、音量）
 
@@ -173,23 +173,23 @@
 
 ## 3. 温和、坚定及其他语气
 
-|词语|英文意思|适用情境|
-|---|---|---|
-|语重心长|Speak earnestly|长辈劝告|
-|苦口婆心|Persuade patiently|耐心劝导|
-|和颜悦色|Kindly|温和地说话|
-|心平气和|Calmly|冷静地沟通|
-|斩钉截铁|Decisively|坚定地表达|
-|毫不客气|Bluntly|不留情面|
-|不以为然|Disapprovingly|不认同|
-|一本正经|Seriously|严肃认真|
-|振振有词|Argue confidently|理直气壮地辩解|
-|支支吾吾|Stammer|吞吞吐吐|
-|吞吞吐吐|Hesitantly|犹豫着说|
-|结结巴巴|Stutter|说话不流畅|
-|滔滔不绝|Talk incessantly|连续不断地说|
-|娓娓道来|Narrate gently|有条理地叙述|
-|侃侃而谈|Speak eloquently|从容地谈论|
+| 词语   | 英文意思               | 适用情境    |
+| ---- | ------------------ | ------- |
+| 语重心长 | Speak earnestly    | 长辈劝告    |
+| 苦口婆心 | Persuade patiently | 耐心劝导    |
+| 和颜悦色 | Kindly             | 温和地说话   |
+| 心平气和 | Calmly             | 冷静地沟通   |
+| 斩钉截铁 | Decisively         | 坚定地表达   |
+| 不以为然 | Disapprovingly     | 不认同     |
+| 毫不客气 | Bluntly            | 不留情面    |
+| 一本正经 | Seriously          | 严肃认真    |
+| 振振有词 | Argue confidently  | 理直气壮地辩解 |
+| 支支吾吾 | Stammer            | 吞吞吐吐    |
+| 吞吞吐吐 | Hesitantly         | 犹豫着说    |
+| 结结巴巴 | Stutter            | 说话不流畅   |
+| 滔滔不绝 | Talk incessantly   | 连续不断地说  |
+| 娓娓道来 | Narrate gently     | 有条理地叙述  |
+| 侃侃而谈 | Speak eloquently   | 从容地谈论   |
 
 高分句式：
 
@@ -235,23 +235,23 @@
 
 ## 2. 悲伤（Sadness）
 
-|词语 / 成语|英文意思|情绪程度|
-|---|---|---|
-|失落|Disappointed|轻微|
-|难过|Sad|普通|
-|心酸|Heartbroken|中等|
-|悲伤|Sorrowful|中等|
-|黯然神伤|Deeply saddened|中等|
-|郁郁寡欢|Gloomy|持续低落|
-|悲痛欲绝|Overwhelmed by grief|极强|
-|泣不成声|Weep uncontrollably|强烈|
-|潸然泪下|Burst into tears|强烈|
-|泪如雨下|Weep profusely|强烈|
-|黯然落泪|Shed tears sadly|中等|
-|心如刀割|Deeply distressed|极强|
-|肝肠寸断|Deep anguish|极强|
-|黯然失色|Lose one's spirit|失望、沮丧|
-|欲哭无泪|Too distressed to cry|极强|
+| 黯然神伤    | Deeply saddened       | 中等    |
+| ------- | --------------------- | ----- |
+| 词语 / 成语 | 英文意思                  | 情绪程度  |
+| 失落      | Disappointed          | 轻微    |
+| 难过      | Sad                   | 普通    |
+| 心酸      | Heartbroken           | 中等    |
+| 悲伤      | Sorrowful             | 中等    |
+| 郁郁寡欢    | Gloomy                | 持续低落  |
+| 悲痛欲绝    | Overwhelmed by grief  | 极强    |
+| 泣不成声    | Weep uncontrollably   | 强烈    |
+| 潸然泪下    | Burst into tears      | 强烈    |
+| 泪如雨下    | Weep profusely        | 强烈    |
+| 黯然落泪    | Shed tears sadly      | 中等    |
+| 心如刀割    | Deeply distressed     | 极强    |
+| 肝肠寸断    | Deep anguish          | 极强    |
+| 黯然失色    | Lose one's spirit     | 失望、沮丧 |
+| 欲哭无泪    | Too distressed to cry | 极强    |
 
 高分句式：
 
@@ -404,32 +404,32 @@
 
 神态描写可以让读者直接感受到人物的情绪，而不必直接说明人物在想什么。
 
-|词语 / 成语|英文意思|适用情境|
-|---|---|---|
-|眉头紧锁|Furrow one's brows|忧虑|
-|愁眉苦脸|Look miserable|忧愁|
-|面如土色|Pale with fright|极度恐惧|
-|脸色苍白|Pale-faced|惊吓、身体不适|
-|面红耳赤|Red-faced|羞愧、愤怒|
-|脸色铁青|Face turns livid|愤怒|
-|目瞪口呆|Stunned|震惊|
-|眉开眼笑|Beam with joy|快乐|
-|笑逐颜开|Break into a smile|喜悦|
-|强颜欢笑|Force a smile|掩饰悲伤|
-|愁容满面|Face full of sorrow|忧愁|
-|神色慌张|Look flustered|紧张|
-|神色凝重|Look grave|严肃、担忧|
-|若有所思|Seem thoughtful|沉思|
-|神情恍惚|Look dazed|心不在焉|
-|目光呆滞|Vacant stare|失神|
-|眼神闪烁|Eyes dart around|心虚、不安|
-|眼眶泛红|Eyes turn red|悲伤|
-|眼含泪光|Eyes glisten with tears|感动、悲伤|
-|嘴角上扬|Corners of the mouth turn up|微笑|
-|笑容僵在脸上|Smile freezes|尴尬、震惊|
-|垂头丧气|Dejected|沮丧|
-|神采奕奕|Radiant and lively|精神饱满|
-|喜形于色|Show one's joy|喜悦显露于脸上|
+| 词语 / 成语 | 英文意思                         | 适用情境    |
+| ------- | ---------------------------- | ------- |
+| 喜形于色    | Show one's joy               | 喜悦显露于脸上 |
+| 若有所思    | Seem thoughtful              | 沉思      |
+| 眉头紧锁    | Furrow one's brows           | 忧虑      |
+| 愁眉苦脸    | Look miserable               | 忧愁      |
+| 面如土色    | Pale with fright             | 极度恐惧    |
+| 脸色苍白    | Pale-faced                   | 惊吓、身体不适 |
+| 面红耳赤    | Red-faced                    | 羞愧、愤怒   |
+| 脸色铁青    | Face turns livid             | 愤怒      |
+| 目瞪口呆    | Stunned                      | 震惊      |
+| 眉开眼笑    | Beam with joy                | 快乐      |
+| 笑逐颜开    | Break into a smile           | 喜悦      |
+| 强颜欢笑    | Force a smile                | 掩饰悲伤    |
+| 愁容满面    | Face full of sorrow          | 忧愁      |
+| 神色慌张    | Look flustered               | 紧张      |
+| 神色凝重    | Look grave                   | 严肃、担忧   |
+| 神情恍惚    | Look dazed                   | 心不在焉    |
+| 目光呆滞    | Vacant stare                 | 失神      |
+| 眼神闪烁    | Eyes dart around             | 心虚、不安   |
+| 眼眶泛红    | Eyes turn red                | 悲伤      |
+| 眼含泪光    | Eyes glisten with tears      | 感动、悲伤   |
+| 嘴角上扬    | Corners of the mouth turn up | 微笑      |
+| 笑容僵在脸上  | Smile freezes                | 尴尬、震惊   |
+| 垂头丧气    | Dejected                     | 沮丧      |
+| 神采奕奕    | Radiant and lively           | 精神饱满    |
 
 值得背诵的神态描写句式：
 
@@ -446,28 +446,28 @@
 
 心理描写特别适合故事的转折点，例如犹豫是否承认错误、是否伸出援手，或面对两难抉择时的内心挣扎。
 
-|词语 / 成语|英文意思|适用情境|
-|---|---|---|
-|思绪万千|A thousand thoughts|想法繁多|
-|心乱如麻|Confused and troubled|思绪混乱|
-|百思不得其解|Unable to figure something out|困惑|
-|左右为难|Torn between two choices|进退两难|
-|举棋不定|Indecisive|犹豫|
-|心存侥幸|Hope against the odds|抱有侥幸心理|
-|念念不忘|Unable to forget|持续挂念|
-|心事重重|Burdened by worries|忧心忡忡|
-|思前想后|Think things over|反复思考|
-|犹豫再三|Hesitate repeatedly|多次犹豫|
-|心有不甘|Unwilling to accept|不甘心|
-|豁然开朗|Suddenly understand|突然领悟|
-|恍然大悟|Suddenly realise|顿悟|
-|幡然醒悟|Come to one's senses|彻底醒悟|
-|茅塞顿开|Suddenly see the light|豁然开朗|
-|如梦初醒|Wake up to reality|恍然醒悟|
-|心潮澎湃|Emotions surge|情绪激荡|
-|心灰意冷|Disheartened|失去信心|
-|坚定不移|Unwavering|意志坚定|
-|下定决心|Make up one's mind|决定行动|
+| 恍然大悟    | Suddenly realise               | 顿悟     |
+| ------- | ------------------------------ | ------ |
+| 茅塞顿开    | Suddenly see the light         | 豁然开朗   |
+| 词语 / 成语 | 英文意思                           | 适用情境   |
+| 思绪万千    | A thousand thoughts            | 想法繁多   |
+| 心乱如麻    | Confused and troubled          | 思绪混乱   |
+| 百思不得其解  | Unable to figure something out | 困惑     |
+| 左右为难    | Torn between two choices       | 进退两难   |
+| 举棋不定    | Indecisive                     | 犹豫     |
+| 心存侥幸    | Hope against the odds          | 抱有侥幸心理 |
+| 念念不忘    | Unable to forget               | 持续挂念   |
+| 心事重重    | Burdened by worries            | 忧心忡忡   |
+| 思前想后    | Think things over              | 反复思考   |
+| 犹豫再三    | Hesitate repeatedly            | 多次犹豫   |
+| 心有不甘    | Unwilling to accept            | 不甘心    |
+| 豁然开朗    | Suddenly understand            | 突然领悟   |
+| 幡然醒悟    | Come to one's senses           | 彻底醒悟   |
+| 如梦初醒    | Wake up to reality             | 恍然醒悟   |
+| 心潮澎湃    | Emotions surge                 | 情绪激荡   |
+| 心灰意冷    | Disheartened                   | 失去信心   |
+| 坚定不移    | Unwavering                     | 意志坚定   |
+| 下定决心    | Make up one's mind             | 决定行动   |
 
 高分句式：
 
@@ -600,28 +600,28 @@
 
 这些词语可以用于故事的不同阶段，尤其适合表达事情的发展、人物之间的关系，以及事情发生后的结果。
 
-|词语 / 成语|英文意思|用法|
-|---|---|---|
-|出乎意料|Unexpected|意外事件|
-|突如其来|Sudden|突发事件|
-|事与愿违|Contrary to expectations|计划失败|
-|阴差阳错|By a twist of fate|意外误会|
-|峰回路转|Take an unexpected turn|情节转折|
-|一波三折|Full of twists and turns|曲折的经历|
-|柳暗花明|A ray of hope|困境中出现转机|
-|水落石出|Truth comes to light|揭露真相|
-|真相大白|The truth is revealed|事情真相揭晓|
-|恍如隔世|As if a lifetime has passed|感慨变化|
-|刻骨铭心|Unforgettable|深刻的经历|
-|记忆犹新|Still fresh in one's memory|难忘的往事|
-|历历在目|Vividly remembered|往事清晰|
-|不欢而散|Part on bad terms|冲突结尾|
-|冰释前嫌|Let bygones be bygones|和解|
-|握手言和|Make peace|化解矛盾|
-|化干戈为玉帛|Turn hostility into friendship|冲突化解|
-|一笑置之|Laugh something off|不再计较|
-|恍然大悟|Suddenly realise|领悟|
-|获益良多|Benefit greatly|总结收获|
+| 词语 / 成语 | 英文意思                           | 用法      |
+| ------- | ------------------------------ | ------- |
+| 出乎意料    | Unexpected                     | 意外事件    |
+| 突如其来    | Sudden                         | 突发事件    |
+| 事与愿违    | Contrary to expectations       | 计划失败    |
+| 阴差阳错    | By a twist of fate             | 意外误会    |
+| 峰回路转    | Take an unexpected turn        | 情节转折    |
+| 一波三折    | Full of twists and turns       | 曲折的经历   |
+| 柳暗花明    | A ray of hope                  | 困境中出现转机 |
+| 水落石出    | Truth comes to light           | 揭露真相    |
+| 真相大白    | The truth is revealed          | 事情真相揭晓  |
+| 恍如隔世    | As if a lifetime has passed    | 感慨变化    |
+| 刻骨铭心    | Unforgettable                  | 深刻的经历   |
+| 记忆犹新    | Still fresh in one's memory    | 难忘的往事   |
+| 历历在目    | Vividly remembered             | 往事清晰    |
+| 不欢而散    | Part on bad terms              | 冲突结尾    |
+| 获益良多    | Benefit greatly                | 总结收获    |
+| 冰释前嫌    | Let bygones be bygones         | 和解      |
+| 握手言和    | Make peace                     | 化解矛盾    |
+| 化干戈为玉帛  | Turn hostility into friendship | 冲突化解    |
+| 一笑置之    | Laugh something off            | 不再计较    |
+| 恍然大悟    | Suddenly realise               | 领悟      |
 
 # 九、作文常用过渡句及优美句式
 
