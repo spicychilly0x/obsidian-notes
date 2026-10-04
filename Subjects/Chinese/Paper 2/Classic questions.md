@@ -1,5 +1,10 @@
 ![[Pasted image 20261003234744.png]]
 
+描写方法-imagery
+修辞手法-literary device
+说明方法-
+论证方法-methods to explain
+
 1. 为什么...?
 	1. copy and paste from passage (may have answers from different paragraphs here and there)
 2. 。。。影响是什么?
