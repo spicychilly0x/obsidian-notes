@@ -1,9 +1,5 @@
-1. chinese sentence fixing
-2. chinese vocab test
-3. chinese mcq story
-4. chinese summary
-5. chinese story
-6. chem
-7. biology
-8. physics
+
+
+1. physics papers (2 if not 3)
+2. refresh concepts in physics
 
