@@ -52,7 +52,7 @@
     - Standard atmospheric pressure can support 760 mm Hg or 76 cm Hg.
 - **Factors Affecting Barometric Height:** Altitude, temperature, humidity, and the presence of trapped air or moisture in the tube.
 - **Design Independence:** Barometric height (h) remains constant even if the tube is tilted or has a different diameter.
-
+![[Pasted image 20261006221010.png]]
 **6. Manometers**
 
 - **Definition:** An instrument used to measure the **difference** in pressure between two points.

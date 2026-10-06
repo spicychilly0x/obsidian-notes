@@ -20,7 +20,8 @@
     - **Red:** Longest wavelength, lowest frequency, lowest energy.
     - **Violet:** Shortest wavelength, highest frequency, highest energy.
 ![[Pasted image 20260831232143.png]]
-
+RHFLW
+Robots hate fat little worms
 **3. Radiation Detectors**
 
 - **Radio & Microwaves:** Aerial, Radio Telescope.
